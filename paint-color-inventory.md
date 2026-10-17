@@ -10,255 +10,255 @@ The **Own it?** boxes are intentionally unchecked so you can mark your own bottl
 
 | Own it? | Color | Code | CSS swatch | Hex |
 |:---:|---|---|---|---|
-| [ ] | After Dark | `DA445` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#263A50;border:1px solid #777;vertical-align:middle" title="#263A50"></span> | `#263A50` |
-| [ ] | Alizarin Crimson | `DA179` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A52A3A;border:1px solid #777;vertical-align:middle" title="#A52A3A"></span> | `#A52A3A` |
-| [ ] | Almondine | `DA403` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#CDB79E;border:1px solid #777;vertical-align:middle" title="#CDB79E"></span> | `#CDB79E` |
-| [ ] | Aloe | `DA364` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A2B184;border:1px solid #777;vertical-align:middle" title="#A2B184"></span> | `#A2B184` |
-| [ ] | Amaze-Mint | `DA432` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#7EC299;border:1px solid #777;vertical-align:middle" title="#7EC299"></span> | `#7EC299` |
-| [ ] | Antique Gold | `DAO9` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C7A95D;border:1px solid #777;vertical-align:middle" title="#C7A95D"></span> | `#C7A95D` |
-| [ ] | Antique Maroon | `DA160` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5C1F32;border:1px solid #777;vertical-align:middle" title="#5C1F32"></span> | `#5C1F32` |
-| [ ] | Antique White | `DAO58` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F3EADB;border:1px solid #777;vertical-align:middle" title="#F3EADB"></span> | `#F3EADB` |
-| [ ] | Aqua Sky | `DA333` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5BC2B5;border:1px solid #777;vertical-align:middle" title="#5BC2B5"></span> | `#5BC2B5` |
-| [ ] | Asphaltum | `DA180` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#63513D;border:1px solid #777;vertical-align:middle" title="#63513D"></span> | `#63513D` |
-| [ ] | Atmosphere | `DA443` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B0C6D6;border:1px solid #777;vertical-align:middle" title="#B0C6D6"></span> | `#B0C6D6` |
-| [ ] | Avocado | `DAO52` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5D7D34;border:1px solid #777;vertical-align:middle" title="#5D7D34"></span> | `#5D7D34` |
-| [ ] | Avocado Toast | `DA430` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5D7D34;border:1px solid #777;vertical-align:middle" title="#5D7D34"></span> | `#5D7D34` |
-| [ ] | Baby Blue | `DAO42` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6D9FD9;border:1px solid #777;vertical-align:middle" title="#6D9FD9"></span> | `#6D9FD9` |
-| [ ] | Baby Blush | `DA398` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F7C1CB;border:1px solid #777;vertical-align:middle" title="#F7C1CB"></span> | `#F7C1CB` |
-| [ ] | Baby Pink | `DAO31` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F1B9C3;border:1px solid #777;vertical-align:middle" title="#F1B9C3"></span> | `#F1B9C3` |
-| [ ] | Bahama Blue | `DA255` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Banana Cream | `DA309` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E0D6AF;border:1px solid #777;vertical-align:middle" title="#E0D6AF"></span> | `#E0D6AF` |
-| [ ] | Berry Cobbler | `DA370` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#943A65;border:1px solid #777;vertical-align:middle" title="#943A65"></span> | `#943A65` |
-| [ ] | Berry Red | `DAO19` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Bittersweet Chocolate | `DA195` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#573324;border:1px solid #777;vertical-align:middle" title="#573324"></span> | `#573324` |
-| [ ] | Black Forest Green | `DAO83` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#254E38;border:1px solid #777;vertical-align:middle" title="#254E38"></span> | `#254E38` |
-| [ ] | Black Green | `DA157` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#1F3A2A;border:1px solid #777;vertical-align:middle" title="#1F3A2A"></span> | `#1F3A2A` |
-| [ ] | Black Plum | `DA172` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#3F263F;border:1px solid #777;vertical-align:middle" title="#3F263F"></span> | `#3F263F` |
-| [ ] | Bleached Sand | `DA257` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E4D2B4;border:1px solid #777;vertical-align:middle" title="#E4D2B4"></span> | `#E4D2B4` |
-| [ ] | Blue Harbor | `DA283` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Blue Haven | `DA318` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Blue Raspberry | `DA413` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Bluegrass Green | `DAO47` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Blush Pink | `DA355` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D66B92;border:1px solid #777;vertical-align:middle" title="#D66B92"></span> | `#D66B92` |
-| [ ] | Bright Blue | `DA351` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#175DB0;border:1px solid #777;vertical-align:middle" title="#175DB0"></span> | `#175DB0` |
-| [ ] | Bright Orange | `DA228` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#DB6612;border:1px solid #777;vertical-align:middle" title="#DB6612"></span> | `#DB6612` |
-| [ ] | Bright Salmon | `DA329` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D15645;border:1px solid #777;vertical-align:middle" title="#D15645"></span> | `#D15645` |
-| [ ] | Bright Yellow | `DA227` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F2D21C;border:1px solid #777;vertical-align:middle" title="#F2D21C"></span> | `#F2D21C` |
-| [ ] | Bubblegum Pink | `DA250` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D66B92;border:1px solid #777;vertical-align:middle" title="#D66B92"></span> | `#D66B92` |
-| [ ] | Burlap | `DA319` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#BBA081;border:1px solid #777;vertical-align:middle" title="#BBA081"></span> | `#BBA081` |
-| [ ] | Burnt Orange | `DAO16` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D1702A;border:1px solid #777;vertical-align:middle" title="#D1702A"></span> | `#D1702A` |
-| [ ] | Burnt Sienna | `DAO63` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A94F2C;border:1px solid #777;vertical-align:middle" title="#A94F2C"></span> | `#A94F2C` |
-| [ ] | Burnt Umber | `DAO64` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5A3827;border:1px solid #777;vertical-align:middle" title="#5A3827"></span> | `#5A3827` |
-| [ ] | Buttermilk | `DAO3` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F3E5B8;border:1px solid #777;vertical-align:middle" title="#F3E5B8"></span> | `#F3E5B8` |
-| [ ] | Cactus Flower | `DA384` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B6678A;border:1px solid #777;vertical-align:middle" title="#B6678A"></span> | `#B6678A` |
-| [ ] | Cadmium Orange | `DAO14` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D1702A;border:1px solid #777;vertical-align:middle" title="#D1702A"></span> | `#D1702A` |
-| [ ] | Cadmium Red | `DAO15` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Cadmium Yellow | `DAO10` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E0C326;border:1px solid #777;vertical-align:middle" title="#E0C326"></span> | `#E0C326` |
-| [ ] | Calico Red | `DAO20` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Calypso Blue | `DA234` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Canyon Orange | `DA238` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D1702A;border:1px solid #777;vertical-align:middle" title="#D1702A"></span> | `#D1702A` |
-| [ ] | Carousel Pink | `DA274` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D66B92;border:1px solid #777;vertical-align:middle" title="#D66B92"></span> | `#D66B92` |
-| [ ] | Celery Green | `DA208` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Celery Shoot | `DA399` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A6B96B;border:1px solid #777;vertical-align:middle" title="#A6B96B"></span> | `#A6B96B` |
-| [ ] | Chartreuse Yellow | `DA330` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E0C326;border:1px solid #777;vertical-align:middle" title="#E0C326"></span> | `#E0C326` |
-| [ ] | Cherry Red | `DA159` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Chocolate Fig | `DA439` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#573324;border:1px solid #777;vertical-align:middle" title="#573324"></span> | `#573324` |
-| [ ] | Cinnamon Drop | `DA308` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#8C5E43;border:1px solid #777;vertical-align:middle" title="#8C5E43"></span> | `#8C5E43` |
-| [ ] | Cinnamon Stick | `DA391` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#8C5E43;border:1px solid #777;vertical-align:middle" title="#8C5E43"></span> | `#8C5E43` |
-| [ ] | Citron Green DA235 | `DA235` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Cobblestone | `DA390` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#8E8C83;border:1px solid #777;vertical-align:middle" title="#8E8C83"></span> | `#8E8C83` |
-| [ ] | Cocoa | `DA259` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#76503A;border:1px solid #777;vertical-align:middle" title="#76503A"></span> | `#76503A` |
-| [ ] | Colonial Blue | `DA334` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Cool White | `DA240` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F0E7DD;border:1px solid #777;vertical-align:middle" title="#F0E7DD"></span> | `#F0E7DD` |
-| [ ] | Coral | `DA346` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#DE6B5B;border:1px solid #777;vertical-align:middle" title="#DE6B5B"></span> | `#DE6B5B` |
-| [ ] | Coral Blush | `DA292` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#DE6B5B;border:1px solid #777;vertical-align:middle" title="#DE6B5B"></span> | `#DE6B5B` |
-| [ ] | Coral Buzz | `DA427` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#DE6B5B;border:1px solid #777;vertical-align:middle" title="#DE6B5B"></span> | `#DE6B5B` |
-| [ ] | Coral Cloud | `DA397` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#DE6B5B;border:1px solid #777;vertical-align:middle" title="#DE6B5B"></span> | `#DE6B5B` |
-| [ ] | Coral Shell | `DA316` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#DE6B5B;border:1px solid #777;vertical-align:middle" title="#DE6B5B"></span> | `#DE6B5B` |
-| [ ] | Cotton Candy | `DA347` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F6B7CD;border:1px solid #777;vertical-align:middle" title="#F6B7CD"></span> | `#F6B7CD` |
-| [ ] | Country Red | `DAO18` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Cranberry Wine | `DA112` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#743246;border:1px solid #777;vertical-align:middle" title="#743246"></span> | `#743246` |
-| [ ] | Crimson Red | `DA426` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#94212E;border:1px solid #777;vertical-align:middle" title="#94212E"></span> | `#94212E` |
-| [ ] | Crisp Blue | `DA376` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Crystal Blue | `DA409` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Dark Chocolate | `DAO65` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#3F2924;border:1px solid #777;vertical-align:middle" title="#3F2924"></span> | `#3F2924` |
-| [ ] | Deep Burgundy | `DA128` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#3F1721;border:1px solid #777;vertical-align:middle" title="#3F1721"></span> | `#3F1721` |
-| [ ] | Deep Midnight Blue | `DA166` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#1A2744;border:1px solid #777;vertical-align:middle" title="#1A2744"></span> | `#1A2744` |
-| [ ] | Deep Ochre | `DA392` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#654D1F;border:1px solid #777;vertical-align:middle" title="#654D1F"></span> | `#654D1F` |
-| [ ] | Desert Cactus | `DA331` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#417538;border:1px solid #777;vertical-align:middle" title="#417538"></span> | `#417538` |
-| [ ] | Desert Sand | `DAO77` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D2B38C;border:1px solid #777;vertical-align:middle" title="#D2B38C"></span> | `#D2B38C` |
-| [ ] | Desert Turquoise | `DAO44` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2B9E9E;border:1px solid #777;vertical-align:middle" title="#2B9E9E"></span> | `#2B9E9E` |
-| [ ] | Dragon Fruit | `DA300` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D94470;border:1px solid #777;vertical-align:middle" title="#D94470"></span> | `#D94470` |
-| [ ] | Dragon Teal | `DA433` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#167A81;border:1px solid #777;vertical-align:middle" title="#167A81"></span> | `#167A81` |
-| [ ] | Dried Clay | `DA356` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#8F5D4D;border:1px solid #777;vertical-align:middle" title="#8F5D4D"></span> | `#8F5D4D` |
-| [ ] | Electric Pink | `DA231` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D66B92;border:1px solid #777;vertical-align:middle" title="#D66B92"></span> | `#D66B92` |
-| [ ] | Ember | `DA440` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#CC5C3C;border:1px solid #777;vertical-align:middle" title="#CC5C3C"></span> | `#CC5C3C` |
-| [ ] | Espresso | `DA271` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#3B2924;border:1px solid #777;vertical-align:middle" title="#3B2924"></span> | `#3B2924` |
-| [ ] | Eucalyptus Leaf | `DA387` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#3E8732;border:1px solid #777;vertical-align:middle" title="#3E8732"></span> | `#3E8732` |
-| [ ] | Evergreen | `DAO82` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#315B48;border:1px solid #777;vertical-align:middle" title="#315B48"></span> | `#315B48` |
-| [ ] | Fairway Green | `DA431` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Fawn | `DA242` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C0A386;border:1px solid #777;vertical-align:middle" title="#C0A386"></span> | `#C0A386` |
-| [ ] | Festive Green | `DA230` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Foliage Green | `DA269` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Forest Green | `DAO50` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Fresh Mango | `DA428` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#ECA34A;border:1px solid #777;vertical-align:middle" title="#ECA34A"></span> | `#ECA34A` |
-| [ ] | Fuchsia Pop | `DA417` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#9E2F6B;border:1px solid #777;vertical-align:middle" title="#9E2F6B"></span> | `#9E2F6B` |
-| [ ] | Gentle Heather | `DA402` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A89CB8;border:1px solid #777;vertical-align:middle" title="#A89CB8"></span> | `#A89CB8` |
-| [ ] | Georgia Clay | `DAO17` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#8F5D4D;border:1px solid #777;vertical-align:middle" title="#8F5D4D"></span> | `#8F5D4D` |
-| [ ] | Gingham Blue | `DA434` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Golden Straw | `DA168` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D9B85D;border:1px solid #777;vertical-align:middle" title="#D9B85D"></span> | `#D9B85D` |
-| [ ] | Golden Yellow | `DA371` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E0DF26;border:1px solid #777;vertical-align:middle" title="#E0DF26"></span> | `#E0DF26` |
-| [ ] | Graphite | `DA161` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#505257;border:1px solid #777;vertical-align:middle" title="#505257"></span> | `#505257` |
-| [ ] | Grecian Blue | `DA435` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Green Lagoon | `DA372` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Green Tree | `DA349` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Grey Sky | `DA111` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5199C2;border:1px solid #777;vertical-align:middle" title="#5199C2"></span> | `#5199C2` |
-| [ ] | Grey Storm | `DA328` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#7A8084;border:1px solid #777;vertical-align:middle" title="#7A8084"></span> | `#7A8084` |
-| [ ] | Hauser Dark Green | `DA133` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#23541B;border:1px solid #777;vertical-align:middle" title="#23541B"></span> | `#23541B` |
-| [ ] | Hauser Light Green | `DA131` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#7BBA70;border:1px solid #777;vertical-align:middle" title="#7BBA70"></span> | `#7BBA70` |
-| [ ] | Hauser Medium Green | `DA132` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Heritage Brick | `DA219` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A84A40;border:1px solid #777;vertical-align:middle" title="#A84A40"></span> | `#A84A40` |
-| [ ] | Holly Green | `DAO48` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Honey Brown | `DA163` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#634D2F;border:1px solid #777;vertical-align:middle" title="#634D2F"></span> | `#634D2F` |
-| [ ] | Indigo Pop | `DA447` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#202661;border:1px solid #777;vertical-align:middle" title="#202661"></span> | `#202661` |
-| [ ] | Irish Moss | `DA312` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#516E3B;border:1px solid #777;vertical-align:middle" title="#516E3B"></span> | `#516E3B` |
-| [ ] | Jack-O'-Lantern Orange | `DA229` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D1702A;border:1px solid #777;vertical-align:middle" title="#D1702A"></span> | `#D1702A` |
-| [ ] | Jadeite Glass | `DA388` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#75A89B;border:1px solid #777;vertical-align:middle" title="#75A89B"></span> | `#75A89B` |
-| [ ] | Jewel Green | `DA393` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Joyful Pink | `DA395` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D66B92;border:1px solid #777;vertical-align:middle" title="#D66B92"></span> | `#D66B92` |
-| [ ] | Juniper | `DA442` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#55735B;border:1px solid #777;vertical-align:middle" title="#55735B"></span> | `#55735B` |
-| [ ] | Kelly Green | `DAO55` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Khaki Tan | `DA173` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#BBA47A;border:1px solid #777;vertical-align:middle" title="#BBA47A"></span> | `#BBA47A` |
-| [ ] | Laguna | `DA350` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#3C9CAC;border:1px solid #777;vertical-align:middle" title="#3C9CAC"></span> | `#3C9CAC` |
-| [ ] | Lamp Black | `DAO67` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#171717;border:1px solid #777;vertical-align:middle" title="#171717"></span> | `#171717` |
-| [ ] | Laurel | `DA407` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#8C9A72;border:1px solid #777;vertical-align:middle" title="#8C9A72"></span> | `#8C9A72` |
-| [ ] | Lavender | `DAO34` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A792C5;border:1px solid #777;vertical-align:middle" title="#A792C5"></span> | `#A792C5` |
-| [ ] | Lavender Haze | `DA436` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A282C2;border:1px solid #777;vertical-align:middle" title="#A282C2"></span> | `#A282C2` |
-| [ ] | Leaf Green | `DAO51` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Lemon Burst | `DA429` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E8E246;border:1px solid #777;vertical-align:middle" title="#E8E246"></span> | `#E8E246` |
-| [ ] | Lemon Yellow | `DAO11` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E0C326;border:1px solid #777;vertical-align:middle" title="#E0C326"></span> | `#E0C326` |
-| [ ] | Light Avocado | `DA106` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#92B06D;border:1px solid #777;vertical-align:middle" title="#92B06D"></span> | `#92B06D` |
-| [ ] | Light Buttermilk | `DA164` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F5E9C7;border:1px solid #777;vertical-align:middle" title="#F5E9C7"></span> | `#F5E9C7` |
-| [ ] | Light Cinnamon | `DA114` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#BF957E;border:1px solid #777;vertical-align:middle" title="#BF957E"></span> | `#BF957E` |
-| [ ] | Light Lime | `DA348` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#967862;border:1px solid #777;vertical-align:middle" title="#967862"></span> | `#967862` |
-| [ ] | Light Mocha | `DA241` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C6A98B;border:1px solid #777;vertical-align:middle" title="#C6A98B"></span> | `#C6A98B` |
-| [ ] | Light Orchid | `DA352` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#EEA1F5;border:1px solid #777;vertical-align:middle" title="#EEA1F5"></span> | `#EEA1F5` |
-| [ ] | Lilac Meadow | `DA367` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A27CBF;border:1px solid #777;vertical-align:middle" title="#A27CBF"></span> | `#A27CBF` |
-| [ ] | Love Potion | `DA437` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C14F85;border:1px solid #777;vertical-align:middle" title="#C14F85"></span> | `#C14F85` |
-| [ ] | Lush Green | `DA408` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Magenta | `DA368` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C12C86;border:1px solid #777;vertical-align:middle" title="#C12C86"></span> | `#C12C86` |
-| [ ] | Margarita | `DA299` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B4C542;border:1px solid #777;vertical-align:middle" title="#B4C542"></span> | `#B4C542` |
-| [ ] | Marigold | `DA194` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E6A62F;border:1px solid #777;vertical-align:middle" title="#E6A62F"></span> | `#E6A62F` |
-| [ ] | Mauve-a-lous | `DA444` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AA7A9E;border:1px solid #777;vertical-align:middle" title="#AA7A9E"></span> | `#AA7A9E` |
-| [ ] | Melon | `DA251` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E88C67;border:1px solid #777;vertical-align:middle" title="#E88C67"></span> | `#E88C67` |
-| [ ] | Mermaid Tail | `DA373` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#438D91;border:1px solid #777;vertical-align:middle" title="#438D91"></span> | `#438D91` |
-| [ ] | Midnite Blue | `DAO85` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Milk Chocolate | `DA174` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#704830;border:1px solid #777;vertical-align:middle" title="#704830"></span> | `#704830` |
-| [ ] | Mississippi Mud | `DAO94` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#57463D;border:1px solid #777;vertical-align:middle" title="#57463D"></span> | `#57463D` |
-| [ ] | Mistletoe | `DAO53` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#587B52;border:1px solid #777;vertical-align:middle" title="#587B52"></span> | `#587B52` |
-| [ ] | Moody Blue | `DA389` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Moon Yellow | `DAO7` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E7C74D;border:1px solid #777;vertical-align:middle" title="#E7C74D"></span> | `#E7C74D` |
-| [ ] | Morning Mist | `DA359` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C3D0D5;border:1px solid #777;vertical-align:middle" title="#C3D0D5"></span> | `#C3D0D5` |
-| [ ] | Mountain Mist | `DA449` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#967862;border:1px solid #777;vertical-align:middle" title="#967862"></span> | `#967862` |
-| [ ] | Mulberry | `DA294` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#77415D;border:1px solid #777;vertical-align:middle" title="#77415D"></span> | `#77415D` |
-| [ ] | Muse | `DA446` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#9A7AA8;border:1px solid #777;vertical-align:middle" title="#9A7AA8"></span> | `#9A7AA8` |
-| [ ] | Napa Red | `DA165` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Natural Buff | `DA311` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D6C0A0;border:1px solid #777;vertical-align:middle" title="#D6C0A0"></span> | `#D6C0A0` |
-| [ ] | Navy Blue | `DAO35` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#263C5A;border:1px solid #777;vertical-align:middle" title="#263C5A"></span> | `#263C5A` |
-| [ ] | Neutral Grey | `DAO95` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#868783;border:1px solid #777;vertical-align:middle" title="#868783"></span> | `#868783` |
-| [ ] | Ocean Blue | `DA270` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Odyssey | `DA448` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#44799B;border:1px solid #777;vertical-align:middle" title="#44799B"></span> | `#44799B` |
-| [ ] | Open Water | `DA374` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5597B5;border:1px solid #777;vertical-align:middle" title="#5597B5"></span> | `#5597B5` |
-| [ ] | Orange Flame | `DA315` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D1702A;border:1px solid #777;vertical-align:middle" title="#D1702A"></span> | `#D1702A` |
-| [ ] | Oyster Beige | `DA313` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D0C2A9;border:1px solid #777;vertical-align:middle" title="#D0C2A9"></span> | `#D0C2A9` |
-| [ ] | Paradise Green | `DA414` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Payne's Grey | `DA167` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#53616C;border:1px solid #777;vertical-align:middle" title="#53616C"></span> | `#53616C` |
-| [ ] | Peaches 'n Cream | `DAO23` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E0D6AF;border:1px solid #777;vertical-align:middle" title="#E0D6AF"></span> | `#E0D6AF` |
-| [ ] | Peacock Teal | `DA326` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#1B737A;border:1px solid #777;vertical-align:middle" title="#1B737A"></span> | `#1B737A` |
-| [ ] | Perfect Peri | `DA410` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#8693C3;border:1px solid #777;vertical-align:middle" title="#8693C3"></span> | `#8693C3` |
-| [ ] | Periwinkle | `DA366` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#9AAED3;border:1px solid #777;vertical-align:middle" title="#9AAED3"></span> | `#9AAED3` |
-| [ ] | Petal Pink | `DA214` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D66B92;border:1px solid #777;vertical-align:middle" title="#D66B92"></span> | `#D66B92` |
-| [ ] | Pistachio Mint | `DA253` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#7EC299;border:1px solid #777;vertical-align:middle" title="#7EC299"></span> | `#7EC299` |
-| [ ] | Plantation Pine | `DA113` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#1E4F26;border:1px solid #777;vertical-align:middle" title="#1E4F26"></span> | `#1E4F26` |
-| [ ] | Poetic Plum | `DA396` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#783B7D;border:1px solid #777;vertical-align:middle" title="#783B7D"></span> | `#783B7D` |
-| [ ] | Poodleskirt Pink | `DA267` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D66B92;border:1px solid #777;vertical-align:middle" title="#D66B92"></span> | `#D66B92` |
-| [ ] | Portobello | `DA411` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#75645A;border:1px solid #777;vertical-align:middle" title="#75645A"></span> | `#75645A` |
-| [ ] | Primary Blue | `DA200` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Primary Red | `DA199` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Primary Yellow | `DA201` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E0C326;border:1px solid #777;vertical-align:middle" title="#E0C326"></span> | `#E0C326` |
-| [ ] | Provence Sky | `DA401` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5199C2;border:1px solid #777;vertical-align:middle" title="#5199C2"></span> | `#5199C2` |
-| [ ] | Prussian Blue | `DA138` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#203D5B;border:1px solid #777;vertical-align:middle" title="#203D5B"></span> | `#203D5B` |
-| [ ] | Purple Cow | `DA272` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6F478F;border:1px solid #777;vertical-align:middle" title="#6F478F"></span> | `#6F478F` |
-| [ ] | Purple Iris | `DA412` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6F478F;border:1px solid #777;vertical-align:middle" title="#6F478F"></span> | `#6F478F` |
-| [ ] | Purple Petal | `DA378` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6F478F;border:1px solid #777;vertical-align:middle" title="#6F478F"></span> | `#6F478F` |
-| [ ] | Purple Pizzazz | `DA302` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6F478F;border:1px solid #777;vertical-align:middle" title="#6F478F"></span> | `#6F478F` |
-| [ ] | Purple Rain | `DA327` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6F478F;border:1px solid #777;vertical-align:middle" title="#6F478F"></span> | `#6F478F` |
-| [ ] | Raw Sienna | `DAO93` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B8743F;border:1px solid #777;vertical-align:middle" title="#B8743F"></span> | `#B8743F` |
-| [ ] | Raw Umber | `DA130` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6A4C35;border:1px solid #777;vertical-align:middle" title="#6A4C35"></span> | `#6A4C35` |
-| [ ] | Razzle Berry | `DA276` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#943A65;border:1px solid #777;vertical-align:middle" title="#943A65"></span> | `#943A65` |
-| [ ] | Red Alert | `DA301` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Red Spice | `DA404` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Rookwood Red | `DAO97` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Royal Fuchsia | `DA151` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B52A84;border:1px solid #777;vertical-align:middle" title="#B52A84"></span> | `#B52A84` |
-| [ ] | Royal Navy | `DA377` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#1D3259;border:1px solid #777;vertical-align:middle" title="#1D3259"></span> | `#1D3259` |
-| [ ] | Sable Brown | `DAO61` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#604535;border:1px solid #777;vertical-align:middle" title="#604535"></span> | `#604535` |
-| [ ] | Saffron Yellow | `DA273` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E0C326;border:1px solid #777;vertical-align:middle" title="#E0C326"></span> | `#E0C326` |
-| [ ] | Sage Mint | `DA400` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#7FA376;border:1px solid #777;vertical-align:middle" title="#7FA376"></span> | `#7FA376` |
-| [ ] | Sand Grey | `DA361` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A99F91;border:1px solid #777;vertical-align:middle" title="#A99F91"></span> | `#A99F91` |
-| [ ] | Santa Red | `DA170` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Sapphire Blue | `DAO99` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Scarlet | `DA345` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD1A23;border:1px solid #777;vertical-align:middle" title="#AD1A23"></span> | `#AD1A23` |
-| [ ] | Sea Breeze | `DA256` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#34878C;border:1px solid #777;vertical-align:middle" title="#34878C"></span> | `#34878C` |
-| [ ] | Sea Glass | `DA297` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#34878C;border:1px solid #777;vertical-align:middle" title="#34878C"></span> | `#34878C` |
-| [ ] | Shoreline | `DA365` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#83A9B9;border:1px solid #777;vertical-align:middle" title="#83A9B9"></span> | `#83A9B9` |
-| [ ] | Slate Grey | `DAO68` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#626A73;border:1px solid #777;vertical-align:middle" title="#626A73"></span> | `#626A73` |
-| [ ] | Snow White | `DAO1` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F0EADD;border:1px solid #777;vertical-align:middle" title="#F0EADD"></span> | `#F0EADD` |
-| [ ] | Soft Black | `DA155` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#282729;border:1px solid #777;vertical-align:middle" title="#282729"></span> | `#282729` |
-| [ ] | Sour Apple | `DA275` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A4C639;border:1px solid #777;vertical-align:middle" title="#A4C639"></span> | `#A4C639` |
-| [ ] | Spa Blue | `DA277` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Spiced Pumpkin | `DA310` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#BA5B25;border:1px solid #777;vertical-align:middle" title="#BA5B25"></span> | `#BA5B25` |
-| [ ] | Sprout | `DA406` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#8AA56D;border:1px solid #777;vertical-align:middle" title="#8AA56D"></span> | `#8AA56D` |
-| [ ] | Strawberry | `DA416` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D84A57;border:1px solid #777;vertical-align:middle" title="#D84A57"></span> | `#D84A57` |
-| [ ] | Sugared Peach | `DA354` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D48A72;border:1px solid #777;vertical-align:middle" title="#D48A72"></span> | `#D48A72` |
-| [ ] | Summer Squash | `DA363` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E9BF50;border:1px solid #777;vertical-align:middle" title="#E9BF50"></span> | `#E9BF50` |
-| [ ] | Sunny Day | `DA325` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F1D268;border:1px solid #777;vertical-align:middle" title="#F1D268"></span> | `#F1D268` |
-| [ ] | Sunset Gold | `DA405` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#BD9631;border:1px solid #777;vertical-align:middle" title="#BD9631"></span> | `#BD9631` |
-| [ ] | Sweet Mint | `DA317` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#7EC299;border:1px solid #777;vertical-align:middle" title="#7EC299"></span> | `#7EC299` |
-| [ ] | Tangerine | `DAO12` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#EB7B28;border:1px solid #777;vertical-align:middle" title="#EB7B28"></span> | `#EB7B28` |
-| [ ] | Teal Mint | `DA332` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#7EC299;border:1px solid #777;vertical-align:middle" title="#7EC299"></span> | `#7EC299` |
-| [ ] | Thicket | `DA357` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2D5925;border:1px solid #777;vertical-align:middle" title="#2D5925"></span> | `#2D5925` |
-| [ ] | Tiger Lily | `DA415` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E86A3A;border:1px solid #777;vertical-align:middle" title="#E86A3A"></span> | `#E86A3A` |
-| [ ] | Tomato Red | `DA169` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D94A32;border:1px solid #777;vertical-align:middle" title="#D94A32"></span> | `#D94A32` |
-| [ ] | Traditional Burnt Sienna | `DA223` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#9E4B2B;border:1px solid #777;vertical-align:middle" title="#9E4B2B"></span> | `#9E4B2B` |
-| [ ] | Traditional Burnt Umber | `DA221` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#503323;border:1px solid #777;vertical-align:middle" title="#503323"></span> | `#503323` |
-| [ ] | Tropical Blue | `DA375` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | True Blue | `DAO36` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#175DB0;border:1px solid #777;vertical-align:middle" title="#175DB0"></span> | `#175DB0` |
-| [ ] | True Red | `DA129` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B8121C;border:1px solid #777;vertical-align:middle" title="#B8121C"></span> | `#B8121C` |
-| [ ] | Turquoise | `DAO87` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2B9E9E;border:1px solid #777;vertical-align:middle" title="#2B9E9E"></span> | `#2B9E9E` |
-| [ ] | Turquoise Blue | `DA268` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2B9E9E;border:1px solid #777;vertical-align:middle" title="#2B9E9E"></span> | `#2B9E9E` |
-| [ ] | Tuscan Red | `DA265` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Ultra Blue Deep | `DA100` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#103867;border:1px solid #777;vertical-align:middle" title="#103867"></span> | `#103867` |
-| [ ] | Ultramarine Blue | `DA225` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#344C9A;border:1px solid #777;vertical-align:middle" title="#344C9A"></span> | `#344C9A` |
-| [ ] | Victorian Blue | `DAO39` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Vintage Pink | `DA369` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E090AD;border:1px solid #777;vertical-align:middle" title="#E090AD"></span> | `#E090AD` |
-| [ ] | Vivid Blue | `DA394` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#175DB0;border:1px solid #777;vertical-align:middle" title="#175DB0"></span> | `#175DB0` |
-| [ ] | Vivid Violet | `DA232` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6E34A8;border:1px solid #777;vertical-align:middle" title="#6E34A8"></span> | `#6E34A8` |
-| [ ] | Warm Beige | `DAO78` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#634D2F;border:1px solid #777;vertical-align:middle" title="#634D2F"></span> | `#634D2F` |
-| [ ] | Warm Sunset | `DA385` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#634D2F;border:1px solid #777;vertical-align:middle" title="#634D2F"></span> | `#634D2F` |
-| [ ] | Warm White | `DA239` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F6F0E2;border:1px solid #777;vertical-align:middle" title="#F6F0E2"></span> | `#F6F0E2` |
-| [ ] | Watermelon Slice | `DA324` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E86F77;border:1px solid #777;vertical-align:middle" title="#E86F77"></span> | `#E86F77` |
-| [ ] | Whipped Mocha | `DA438` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#9E8268;border:1px solid #777;vertical-align:middle" title="#9E8268"></span> | `#9E8268` |
-| [ ] | Whispering Turquoise | `DA305` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2B9E9E;border:1px solid #777;vertical-align:middle" title="#2B9E9E"></span> | `#2B9E9E` |
-| [ ] | White Peach | `DAO24` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F0EADD;border:1px solid #777;vertical-align:middle" title="#F0EADD"></span> | `#F0EADD` |
-| [ ] | White Wash | `DAO2` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F0EADD;border:1px solid #777;vertical-align:middle" title="#F0EADD"></span> | `#F0EADD` |
-| [ ] | Wild Berry | `DA362` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#943A65;border:1px solid #777;vertical-align:middle" title="#943A65"></span> | `#943A65` |
-| [ ] | Wild Orchid | `DA233` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#BA5DC2;border:1px solid #777;vertical-align:middle" title="#BA5DC2"></span> | `#BA5DC2` |
-| [ ] | Williamsburg Blue | `DAO40` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Winter Blue | `DA190` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Wisteria | `DA211` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A78BB6;border:1px solid #777;vertical-align:middle" title="#A78BB6"></span> | `#A78BB6` |
-| [ ] | Yellow Ochre | `DAO8` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C99A35;border:1px solid #777;vertical-align:middle" title="#C99A35"></span> | `#C99A35` |
-| [ ] | Yuzu Yellow | `DA441` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E0C326;border:1px solid #777;vertical-align:middle" title="#E0C326"></span> | `#E0C326` |
-| [ ] | Zinc | `DA304` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#8F9293;border:1px solid #777;vertical-align:middle" title="#8F9293"></span> | `#8F9293` |
+| [ ] | After Dark | `DA445` | ![#263A50](swatches/hex-263a50.svg) | `#263A50` |
+| [ ] | Alizarin Crimson | `DA179` | ![#A52A3A](swatches/hex-a52a3a.svg) | `#A52A3A` |
+| [ ] | Almondine | `DA403` | ![#CDB79E](swatches/hex-cdb79e.svg) | `#CDB79E` |
+| [ ] | Aloe | `DA364` | ![#A2B184](swatches/hex-a2b184.svg) | `#A2B184` |
+| [ ] | Amaze-Mint | `DA432` | ![#7EC299](swatches/hex-7ec299.svg) | `#7EC299` |
+| [ ] | Antique Gold | `DAO9` | ![#C7A95D](swatches/hex-c7a95d.svg) | `#C7A95D` |
+| [ ] | Antique Maroon | `DA160` | ![#5C1F32](swatches/hex-5c1f32.svg) | `#5C1F32` |
+| [ ] | Antique White | `DAO58` | ![#F3EADB](swatches/hex-f3eadb.svg) | `#F3EADB` |
+| [ ] | Aqua Sky | `DA333` | ![#5BC2B5](swatches/hex-5bc2b5.svg) | `#5BC2B5` |
+| [ ] | Asphaltum | `DA180` | ![#63513D](swatches/hex-63513d.svg) | `#63513D` |
+| [ ] | Atmosphere | `DA443` | ![#B0C6D6](swatches/hex-b0c6d6.svg) | `#B0C6D6` |
+| [ ] | Avocado | `DAO52` | ![#5D7D34](swatches/hex-5d7d34.svg) | `#5D7D34` |
+| [ ] | Avocado Toast | `DA430` | ![#5D7D34](swatches/hex-5d7d34.svg) | `#5D7D34` |
+| [ ] | Baby Blue | `DAO42` | ![#6D9FD9](swatches/hex-6d9fd9.svg) | `#6D9FD9` |
+| [ ] | Baby Blush | `DA398` | ![#F7C1CB](swatches/hex-f7c1cb.svg) | `#F7C1CB` |
+| [ ] | Baby Pink | `DAO31` | ![#F1B9C3](swatches/hex-f1b9c3.svg) | `#F1B9C3` |
+| [ ] | Bahama Blue | `DA255` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Banana Cream | `DA309` | ![#E0D6AF](swatches/hex-e0d6af.svg) | `#E0D6AF` |
+| [ ] | Berry Cobbler | `DA370` | ![#943A65](swatches/hex-943a65.svg) | `#943A65` |
+| [ ] | Berry Red | `DAO19` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Bittersweet Chocolate | `DA195` | ![#573324](swatches/hex-573324.svg) | `#573324` |
+| [ ] | Black Forest Green | `DAO83` | ![#254E38](swatches/hex-254e38.svg) | `#254E38` |
+| [ ] | Black Green | `DA157` | ![#1F3A2A](swatches/hex-1f3a2a.svg) | `#1F3A2A` |
+| [ ] | Black Plum | `DA172` | ![#3F263F](swatches/hex-3f263f.svg) | `#3F263F` |
+| [ ] | Bleached Sand | `DA257` | ![#E4D2B4](swatches/hex-e4d2b4.svg) | `#E4D2B4` |
+| [ ] | Blue Harbor | `DA283` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Blue Haven | `DA318` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Blue Raspberry | `DA413` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Bluegrass Green | `DAO47` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Blush Pink | `DA355` | ![#D66B92](swatches/hex-d66b92.svg) | `#D66B92` |
+| [ ] | Bright Blue | `DA351` | ![#175DB0](swatches/hex-175db0.svg) | `#175DB0` |
+| [ ] | Bright Orange | `DA228` | ![#DB6612](swatches/hex-db6612.svg) | `#DB6612` |
+| [ ] | Bright Salmon | `DA329` | ![#D15645](swatches/hex-d15645.svg) | `#D15645` |
+| [ ] | Bright Yellow | `DA227` | ![#F2D21C](swatches/hex-f2d21c.svg) | `#F2D21C` |
+| [ ] | Bubblegum Pink | `DA250` | ![#D66B92](swatches/hex-d66b92.svg) | `#D66B92` |
+| [ ] | Burlap | `DA319` | ![#BBA081](swatches/hex-bba081.svg) | `#BBA081` |
+| [ ] | Burnt Orange | `DAO16` | ![#D1702A](swatches/hex-d1702a.svg) | `#D1702A` |
+| [ ] | Burnt Sienna | `DAO63` | ![#A94F2C](swatches/hex-a94f2c.svg) | `#A94F2C` |
+| [ ] | Burnt Umber | `DAO64` | ![#5A3827](swatches/hex-5a3827.svg) | `#5A3827` |
+| [ ] | Buttermilk | `DAO3` | ![#F3E5B8](swatches/hex-f3e5b8.svg) | `#F3E5B8` |
+| [ ] | Cactus Flower | `DA384` | ![#B6678A](swatches/hex-b6678a.svg) | `#B6678A` |
+| [ ] | Cadmium Orange | `DAO14` | ![#D1702A](swatches/hex-d1702a.svg) | `#D1702A` |
+| [ ] | Cadmium Red | `DAO15` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Cadmium Yellow | `DAO10` | ![#E0C326](swatches/hex-e0c326.svg) | `#E0C326` |
+| [ ] | Calico Red | `DAO20` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Calypso Blue | `DA234` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Canyon Orange | `DA238` | ![#D1702A](swatches/hex-d1702a.svg) | `#D1702A` |
+| [ ] | Carousel Pink | `DA274` | ![#D66B92](swatches/hex-d66b92.svg) | `#D66B92` |
+| [ ] | Celery Green | `DA208` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Celery Shoot | `DA399` | ![#A6B96B](swatches/hex-a6b96b.svg) | `#A6B96B` |
+| [ ] | Chartreuse Yellow | `DA330` | ![#E0C326](swatches/hex-e0c326.svg) | `#E0C326` |
+| [ ] | Cherry Red | `DA159` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Chocolate Fig | `DA439` | ![#573324](swatches/hex-573324.svg) | `#573324` |
+| [ ] | Cinnamon Drop | `DA308` | ![#8C5E43](swatches/hex-8c5e43.svg) | `#8C5E43` |
+| [ ] | Cinnamon Stick | `DA391` | ![#8C5E43](swatches/hex-8c5e43.svg) | `#8C5E43` |
+| [ ] | Citron Green DA235 | `DA235` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Cobblestone | `DA390` | ![#8E8C83](swatches/hex-8e8c83.svg) | `#8E8C83` |
+| [ ] | Cocoa | `DA259` | ![#76503A](swatches/hex-76503a.svg) | `#76503A` |
+| [ ] | Colonial Blue | `DA334` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Cool White | `DA240` | ![#F0E7DD](swatches/hex-f0e7dd.svg) | `#F0E7DD` |
+| [ ] | Coral | `DA346` | ![#DE6B5B](swatches/hex-de6b5b.svg) | `#DE6B5B` |
+| [ ] | Coral Blush | `DA292` | ![#DE6B5B](swatches/hex-de6b5b.svg) | `#DE6B5B` |
+| [ ] | Coral Buzz | `DA427` | ![#DE6B5B](swatches/hex-de6b5b.svg) | `#DE6B5B` |
+| [ ] | Coral Cloud | `DA397` | ![#DE6B5B](swatches/hex-de6b5b.svg) | `#DE6B5B` |
+| [ ] | Coral Shell | `DA316` | ![#DE6B5B](swatches/hex-de6b5b.svg) | `#DE6B5B` |
+| [ ] | Cotton Candy | `DA347` | ![#F6B7CD](swatches/hex-f6b7cd.svg) | `#F6B7CD` |
+| [ ] | Country Red | `DAO18` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Cranberry Wine | `DA112` | ![#743246](swatches/hex-743246.svg) | `#743246` |
+| [ ] | Crimson Red | `DA426` | ![#94212E](swatches/hex-94212e.svg) | `#94212E` |
+| [ ] | Crisp Blue | `DA376` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Crystal Blue | `DA409` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Dark Chocolate | `DAO65` | ![#3F2924](swatches/hex-3f2924.svg) | `#3F2924` |
+| [ ] | Deep Burgundy | `DA128` | ![#3F1721](swatches/hex-3f1721.svg) | `#3F1721` |
+| [ ] | Deep Midnight Blue | `DA166` | ![#1A2744](swatches/hex-1a2744.svg) | `#1A2744` |
+| [ ] | Deep Ochre | `DA392` | ![#654D1F](swatches/hex-654d1f.svg) | `#654D1F` |
+| [ ] | Desert Cactus | `DA331` | ![#417538](swatches/hex-417538.svg) | `#417538` |
+| [ ] | Desert Sand | `DAO77` | ![#D2B38C](swatches/hex-d2b38c.svg) | `#D2B38C` |
+| [ ] | Desert Turquoise | `DAO44` | ![#2B9E9E](swatches/hex-2b9e9e.svg) | `#2B9E9E` |
+| [ ] | Dragon Fruit | `DA300` | ![#D94470](swatches/hex-d94470.svg) | `#D94470` |
+| [ ] | Dragon Teal | `DA433` | ![#167A81](swatches/hex-167a81.svg) | `#167A81` |
+| [ ] | Dried Clay | `DA356` | ![#8F5D4D](swatches/hex-8f5d4d.svg) | `#8F5D4D` |
+| [ ] | Electric Pink | `DA231` | ![#D66B92](swatches/hex-d66b92.svg) | `#D66B92` |
+| [ ] | Ember | `DA440` | ![#CC5C3C](swatches/hex-cc5c3c.svg) | `#CC5C3C` |
+| [ ] | Espresso | `DA271` | ![#3B2924](swatches/hex-3b2924.svg) | `#3B2924` |
+| [ ] | Eucalyptus Leaf | `DA387` | ![#3E8732](swatches/hex-3e8732.svg) | `#3E8732` |
+| [ ] | Evergreen | `DAO82` | ![#315B48](swatches/hex-315b48.svg) | `#315B48` |
+| [ ] | Fairway Green | `DA431` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Fawn | `DA242` | ![#C0A386](swatches/hex-c0a386.svg) | `#C0A386` |
+| [ ] | Festive Green | `DA230` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Foliage Green | `DA269` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Forest Green | `DAO50` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Fresh Mango | `DA428` | ![#ECA34A](swatches/hex-eca34a.svg) | `#ECA34A` |
+| [ ] | Fuchsia Pop | `DA417` | ![#9E2F6B](swatches/hex-9e2f6b.svg) | `#9E2F6B` |
+| [ ] | Gentle Heather | `DA402` | ![#A89CB8](swatches/hex-a89cb8.svg) | `#A89CB8` |
+| [ ] | Georgia Clay | `DAO17` | ![#8F5D4D](swatches/hex-8f5d4d.svg) | `#8F5D4D` |
+| [ ] | Gingham Blue | `DA434` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Golden Straw | `DA168` | ![#D9B85D](swatches/hex-d9b85d.svg) | `#D9B85D` |
+| [ ] | Golden Yellow | `DA371` | ![#E0DF26](swatches/hex-e0df26.svg) | `#E0DF26` |
+| [ ] | Graphite | `DA161` | ![#505257](swatches/hex-505257.svg) | `#505257` |
+| [ ] | Grecian Blue | `DA435` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Green Lagoon | `DA372` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Green Tree | `DA349` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Grey Sky | `DA111` | ![#5199C2](swatches/hex-5199c2.svg) | `#5199C2` |
+| [ ] | Grey Storm | `DA328` | ![#7A8084](swatches/hex-7a8084.svg) | `#7A8084` |
+| [ ] | Hauser Dark Green | `DA133` | ![#23541B](swatches/hex-23541b.svg) | `#23541B` |
+| [ ] | Hauser Light Green | `DA131` | ![#7BBA70](swatches/hex-7bba70.svg) | `#7BBA70` |
+| [ ] | Hauser Medium Green | `DA132` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Heritage Brick | `DA219` | ![#A84A40](swatches/hex-a84a40.svg) | `#A84A40` |
+| [ ] | Holly Green | `DAO48` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Honey Brown | `DA163` | ![#634D2F](swatches/hex-634d2f.svg) | `#634D2F` |
+| [ ] | Indigo Pop | `DA447` | ![#202661](swatches/hex-202661.svg) | `#202661` |
+| [ ] | Irish Moss | `DA312` | ![#516E3B](swatches/hex-516e3b.svg) | `#516E3B` |
+| [ ] | Jack-O'-Lantern Orange | `DA229` | ![#D1702A](swatches/hex-d1702a.svg) | `#D1702A` |
+| [ ] | Jadeite Glass | `DA388` | ![#75A89B](swatches/hex-75a89b.svg) | `#75A89B` |
+| [ ] | Jewel Green | `DA393` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Joyful Pink | `DA395` | ![#D66B92](swatches/hex-d66b92.svg) | `#D66B92` |
+| [ ] | Juniper | `DA442` | ![#55735B](swatches/hex-55735b.svg) | `#55735B` |
+| [ ] | Kelly Green | `DAO55` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Khaki Tan | `DA173` | ![#BBA47A](swatches/hex-bba47a.svg) | `#BBA47A` |
+| [ ] | Laguna | `DA350` | ![#3C9CAC](swatches/hex-3c9cac.svg) | `#3C9CAC` |
+| [ ] | Lamp Black | `DAO67` | ![#171717](swatches/hex-171717.svg) | `#171717` |
+| [ ] | Laurel | `DA407` | ![#8C9A72](swatches/hex-8c9a72.svg) | `#8C9A72` |
+| [ ] | Lavender | `DAO34` | ![#A792C5](swatches/hex-a792c5.svg) | `#A792C5` |
+| [ ] | Lavender Haze | `DA436` | ![#A282C2](swatches/hex-a282c2.svg) | `#A282C2` |
+| [ ] | Leaf Green | `DAO51` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Lemon Burst | `DA429` | ![#E8E246](swatches/hex-e8e246.svg) | `#E8E246` |
+| [ ] | Lemon Yellow | `DAO11` | ![#E0C326](swatches/hex-e0c326.svg) | `#E0C326` |
+| [ ] | Light Avocado | `DA106` | ![#92B06D](swatches/hex-92b06d.svg) | `#92B06D` |
+| [ ] | Light Buttermilk | `DA164` | ![#F5E9C7](swatches/hex-f5e9c7.svg) | `#F5E9C7` |
+| [ ] | Light Cinnamon | `DA114` | ![#BF957E](swatches/hex-bf957e.svg) | `#BF957E` |
+| [ ] | Light Lime | `DA348` | ![#967862](swatches/hex-967862.svg) | `#967862` |
+| [ ] | Light Mocha | `DA241` | ![#C6A98B](swatches/hex-c6a98b.svg) | `#C6A98B` |
+| [ ] | Light Orchid | `DA352` | ![#EEA1F5](swatches/hex-eea1f5.svg) | `#EEA1F5` |
+| [ ] | Lilac Meadow | `DA367` | ![#A27CBF](swatches/hex-a27cbf.svg) | `#A27CBF` |
+| [ ] | Love Potion | `DA437` | ![#C14F85](swatches/hex-c14f85.svg) | `#C14F85` |
+| [ ] | Lush Green | `DA408` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Magenta | `DA368` | ![#C12C86](swatches/hex-c12c86.svg) | `#C12C86` |
+| [ ] | Margarita | `DA299` | ![#B4C542](swatches/hex-b4c542.svg) | `#B4C542` |
+| [ ] | Marigold | `DA194` | ![#E6A62F](swatches/hex-e6a62f.svg) | `#E6A62F` |
+| [ ] | Mauve-a-lous | `DA444` | ![#AA7A9E](swatches/hex-aa7a9e.svg) | `#AA7A9E` |
+| [ ] | Melon | `DA251` | ![#E88C67](swatches/hex-e88c67.svg) | `#E88C67` |
+| [ ] | Mermaid Tail | `DA373` | ![#438D91](swatches/hex-438d91.svg) | `#438D91` |
+| [ ] | Midnite Blue | `DAO85` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Milk Chocolate | `DA174` | ![#704830](swatches/hex-704830.svg) | `#704830` |
+| [ ] | Mississippi Mud | `DAO94` | ![#57463D](swatches/hex-57463d.svg) | `#57463D` |
+| [ ] | Mistletoe | `DAO53` | ![#587B52](swatches/hex-587b52.svg) | `#587B52` |
+| [ ] | Moody Blue | `DA389` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Moon Yellow | `DAO7` | ![#E7C74D](swatches/hex-e7c74d.svg) | `#E7C74D` |
+| [ ] | Morning Mist | `DA359` | ![#C3D0D5](swatches/hex-c3d0d5.svg) | `#C3D0D5` |
+| [ ] | Mountain Mist | `DA449` | ![#967862](swatches/hex-967862.svg) | `#967862` |
+| [ ] | Mulberry | `DA294` | ![#77415D](swatches/hex-77415d.svg) | `#77415D` |
+| [ ] | Muse | `DA446` | ![#9A7AA8](swatches/hex-9a7aa8.svg) | `#9A7AA8` |
+| [ ] | Napa Red | `DA165` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Natural Buff | `DA311` | ![#D6C0A0](swatches/hex-d6c0a0.svg) | `#D6C0A0` |
+| [ ] | Navy Blue | `DAO35` | ![#263C5A](swatches/hex-263c5a.svg) | `#263C5A` |
+| [ ] | Neutral Grey | `DAO95` | ![#868783](swatches/hex-868783.svg) | `#868783` |
+| [ ] | Ocean Blue | `DA270` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Odyssey | `DA448` | ![#44799B](swatches/hex-44799b.svg) | `#44799B` |
+| [ ] | Open Water | `DA374` | ![#5597B5](swatches/hex-5597b5.svg) | `#5597B5` |
+| [ ] | Orange Flame | `DA315` | ![#D1702A](swatches/hex-d1702a.svg) | `#D1702A` |
+| [ ] | Oyster Beige | `DA313` | ![#D0C2A9](swatches/hex-d0c2a9.svg) | `#D0C2A9` |
+| [ ] | Paradise Green | `DA414` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Payne's Grey | `DA167` | ![#53616C](swatches/hex-53616c.svg) | `#53616C` |
+| [ ] | Peaches 'n Cream | `DAO23` | ![#E0D6AF](swatches/hex-e0d6af.svg) | `#E0D6AF` |
+| [ ] | Peacock Teal | `DA326` | ![#1B737A](swatches/hex-1b737a.svg) | `#1B737A` |
+| [ ] | Perfect Peri | `DA410` | ![#8693C3](swatches/hex-8693c3.svg) | `#8693C3` |
+| [ ] | Periwinkle | `DA366` | ![#9AAED3](swatches/hex-9aaed3.svg) | `#9AAED3` |
+| [ ] | Petal Pink | `DA214` | ![#D66B92](swatches/hex-d66b92.svg) | `#D66B92` |
+| [ ] | Pistachio Mint | `DA253` | ![#7EC299](swatches/hex-7ec299.svg) | `#7EC299` |
+| [ ] | Plantation Pine | `DA113` | ![#1E4F26](swatches/hex-1e4f26.svg) | `#1E4F26` |
+| [ ] | Poetic Plum | `DA396` | ![#783B7D](swatches/hex-783b7d.svg) | `#783B7D` |
+| [ ] | Poodleskirt Pink | `DA267` | ![#D66B92](swatches/hex-d66b92.svg) | `#D66B92` |
+| [ ] | Portobello | `DA411` | ![#75645A](swatches/hex-75645a.svg) | `#75645A` |
+| [ ] | Primary Blue | `DA200` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Primary Red | `DA199` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Primary Yellow | `DA201` | ![#E0C326](swatches/hex-e0c326.svg) | `#E0C326` |
+| [ ] | Provence Sky | `DA401` | ![#5199C2](swatches/hex-5199c2.svg) | `#5199C2` |
+| [ ] | Prussian Blue | `DA138` | ![#203D5B](swatches/hex-203d5b.svg) | `#203D5B` |
+| [ ] | Purple Cow | `DA272` | ![#6F478F](swatches/hex-6f478f.svg) | `#6F478F` |
+| [ ] | Purple Iris | `DA412` | ![#6F478F](swatches/hex-6f478f.svg) | `#6F478F` |
+| [ ] | Purple Petal | `DA378` | ![#6F478F](swatches/hex-6f478f.svg) | `#6F478F` |
+| [ ] | Purple Pizzazz | `DA302` | ![#6F478F](swatches/hex-6f478f.svg) | `#6F478F` |
+| [ ] | Purple Rain | `DA327` | ![#6F478F](swatches/hex-6f478f.svg) | `#6F478F` |
+| [ ] | Raw Sienna | `DAO93` | ![#B8743F](swatches/hex-b8743f.svg) | `#B8743F` |
+| [ ] | Raw Umber | `DA130` | ![#6A4C35](swatches/hex-6a4c35.svg) | `#6A4C35` |
+| [ ] | Razzle Berry | `DA276` | ![#943A65](swatches/hex-943a65.svg) | `#943A65` |
+| [ ] | Red Alert | `DA301` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Red Spice | `DA404` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Rookwood Red | `DAO97` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Royal Fuchsia | `DA151` | ![#B52A84](swatches/hex-b52a84.svg) | `#B52A84` |
+| [ ] | Royal Navy | `DA377` | ![#1D3259](swatches/hex-1d3259.svg) | `#1D3259` |
+| [ ] | Sable Brown | `DAO61` | ![#604535](swatches/hex-604535.svg) | `#604535` |
+| [ ] | Saffron Yellow | `DA273` | ![#E0C326](swatches/hex-e0c326.svg) | `#E0C326` |
+| [ ] | Sage Mint | `DA400` | ![#7FA376](swatches/hex-7fa376.svg) | `#7FA376` |
+| [ ] | Sand Grey | `DA361` | ![#A99F91](swatches/hex-a99f91.svg) | `#A99F91` |
+| [ ] | Santa Red | `DA170` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Sapphire Blue | `DAO99` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Scarlet | `DA345` | ![#AD1A23](swatches/hex-ad1a23.svg) | `#AD1A23` |
+| [ ] | Sea Breeze | `DA256` | ![#34878C](swatches/hex-34878c.svg) | `#34878C` |
+| [ ] | Sea Glass | `DA297` | ![#34878C](swatches/hex-34878c.svg) | `#34878C` |
+| [ ] | Shoreline | `DA365` | ![#83A9B9](swatches/hex-83a9b9.svg) | `#83A9B9` |
+| [ ] | Slate Grey | `DAO68` | ![#626A73](swatches/hex-626a73.svg) | `#626A73` |
+| [ ] | Snow White | `DAO1` | ![#F0EADD](swatches/hex-f0eadd.svg) | `#F0EADD` |
+| [ ] | Soft Black | `DA155` | ![#282729](swatches/hex-282729.svg) | `#282729` |
+| [ ] | Sour Apple | `DA275` | ![#A4C639](swatches/hex-a4c639.svg) | `#A4C639` |
+| [ ] | Spa Blue | `DA277` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Spiced Pumpkin | `DA310` | ![#BA5B25](swatches/hex-ba5b25.svg) | `#BA5B25` |
+| [ ] | Sprout | `DA406` | ![#8AA56D](swatches/hex-8aa56d.svg) | `#8AA56D` |
+| [ ] | Strawberry | `DA416` | ![#D84A57](swatches/hex-d84a57.svg) | `#D84A57` |
+| [ ] | Sugared Peach | `DA354` | ![#D48A72](swatches/hex-d48a72.svg) | `#D48A72` |
+| [ ] | Summer Squash | `DA363` | ![#E9BF50](swatches/hex-e9bf50.svg) | `#E9BF50` |
+| [ ] | Sunny Day | `DA325` | ![#F1D268](swatches/hex-f1d268.svg) | `#F1D268` |
+| [ ] | Sunset Gold | `DA405` | ![#BD9631](swatches/hex-bd9631.svg) | `#BD9631` |
+| [ ] | Sweet Mint | `DA317` | ![#7EC299](swatches/hex-7ec299.svg) | `#7EC299` |
+| [ ] | Tangerine | `DAO12` | ![#EB7B28](swatches/hex-eb7b28.svg) | `#EB7B28` |
+| [ ] | Teal Mint | `DA332` | ![#7EC299](swatches/hex-7ec299.svg) | `#7EC299` |
+| [ ] | Thicket | `DA357` | ![#2D5925](swatches/hex-2d5925.svg) | `#2D5925` |
+| [ ] | Tiger Lily | `DA415` | ![#E86A3A](swatches/hex-e86a3a.svg) | `#E86A3A` |
+| [ ] | Tomato Red | `DA169` | ![#D94A32](swatches/hex-d94a32.svg) | `#D94A32` |
+| [ ] | Traditional Burnt Sienna | `DA223` | ![#9E4B2B](swatches/hex-9e4b2b.svg) | `#9E4B2B` |
+| [ ] | Traditional Burnt Umber | `DA221` | ![#503323](swatches/hex-503323.svg) | `#503323` |
+| [ ] | Tropical Blue | `DA375` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | True Blue | `DAO36` | ![#175DB0](swatches/hex-175db0.svg) | `#175DB0` |
+| [ ] | True Red | `DA129` | ![#B8121C](swatches/hex-b8121c.svg) | `#B8121C` |
+| [ ] | Turquoise | `DAO87` | ![#2B9E9E](swatches/hex-2b9e9e.svg) | `#2B9E9E` |
+| [ ] | Turquoise Blue | `DA268` | ![#2B9E9E](swatches/hex-2b9e9e.svg) | `#2B9E9E` |
+| [ ] | Tuscan Red | `DA265` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Ultra Blue Deep | `DA100` | ![#103867](swatches/hex-103867.svg) | `#103867` |
+| [ ] | Ultramarine Blue | `DA225` | ![#344C9A](swatches/hex-344c9a.svg) | `#344C9A` |
+| [ ] | Victorian Blue | `DAO39` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Vintage Pink | `DA369` | ![#E090AD](swatches/hex-e090ad.svg) | `#E090AD` |
+| [ ] | Vivid Blue | `DA394` | ![#175DB0](swatches/hex-175db0.svg) | `#175DB0` |
+| [ ] | Vivid Violet | `DA232` | ![#6E34A8](swatches/hex-6e34a8.svg) | `#6E34A8` |
+| [ ] | Warm Beige | `DAO78` | ![#634D2F](swatches/hex-634d2f.svg) | `#634D2F` |
+| [ ] | Warm Sunset | `DA385` | ![#634D2F](swatches/hex-634d2f.svg) | `#634D2F` |
+| [ ] | Warm White | `DA239` | ![#F6F0E2](swatches/hex-f6f0e2.svg) | `#F6F0E2` |
+| [ ] | Watermelon Slice | `DA324` | ![#E86F77](swatches/hex-e86f77.svg) | `#E86F77` |
+| [ ] | Whipped Mocha | `DA438` | ![#9E8268](swatches/hex-9e8268.svg) | `#9E8268` |
+| [ ] | Whispering Turquoise | `DA305` | ![#2B9E9E](swatches/hex-2b9e9e.svg) | `#2B9E9E` |
+| [ ] | White Peach | `DAO24` | ![#F0EADD](swatches/hex-f0eadd.svg) | `#F0EADD` |
+| [ ] | White Wash | `DAO2` | ![#F0EADD](swatches/hex-f0eadd.svg) | `#F0EADD` |
+| [ ] | Wild Berry | `DA362` | ![#943A65](swatches/hex-943a65.svg) | `#943A65` |
+| [ ] | Wild Orchid | `DA233` | ![#BA5DC2](swatches/hex-ba5dc2.svg) | `#BA5DC2` |
+| [ ] | Williamsburg Blue | `DAO40` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Winter Blue | `DA190` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Wisteria | `DA211` | ![#A78BB6](swatches/hex-a78bb6.svg) | `#A78BB6` |
+| [ ] | Yellow Ochre | `DAO8` | ![#C99A35](swatches/hex-c99a35.svg) | `#C99A35` |
+| [ ] | Yuzu Yellow | `DA441` | ![#E0C326](swatches/hex-e0c326.svg) | `#E0C326` |
+| [ ] | Zinc | `DA304` | ![#8F9293](swatches/hex-8f9293.svg) | `#8F9293` |
 
 Source: [DecoArt Americana Acrylics](https://www.decoart.com/products/americana-acrylics).
 
@@ -266,193 +266,193 @@ Source: [DecoArt Americana Acrylics](https://www.decoart.com/products/americana-
 
 | Own it? | Color | Code | CSS swatch | Hex |
 |:---:|---|---|---|---|
-| [ ] | Adrift | `6460` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#628FA5;border:1px solid #777;vertical-align:middle" title="#628FA5"></span> | `#628FA5` |
-| [ ] | Alfalfa | `2427` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A6B77D;border:1px solid #777;vertical-align:middle" title="#A6B77D"></span> | `#A6B77D` |
-| [ ] | Apple Orchard | `2241` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#78A63E;border:1px solid #777;vertical-align:middle" title="#78A63E"></span> | `#78A63E` |
-| [ ] | Apple Red | `2548` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Aqua | `481` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5BC2B5;border:1px solid #777;vertical-align:middle" title="#5BC2B5"></span> | `#5BC2B5` |
-| [ ] | Asphaltum | `476` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#63513D;border:1px solid #777;vertical-align:middle" title="#63513D"></span> | `#63513D` |
-| [ ] | Baby Pink | `633` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F1B9C3;border:1px solid #777;vertical-align:middle" title="#F1B9C3"></span> | `#F1B9C3` |
-| [ ] | Ballet Pink | `438` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#EAB6BC;border:1px solid #777;vertical-align:middle" title="#EAB6BC"></span> | `#EAB6BC` |
-| [ ] | Bark Brown | `2560` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#63452F;border:1px solid #777;vertical-align:middle" title="#63452F"></span> | `#63452F` |
-| [ ] | Barn Wood | `936` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#877A6A;border:1px solid #777;vertical-align:middle" title="#877A6A"></span> | `#877A6A` |
-| [ ] | Barnyard Red | `611` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Basil Green | `645` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Berry Wine | `434` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6C334C;border:1px solid #777;vertical-align:middle" title="#6C334C"></span> | `#6C334C` |
-| [ ] | Black Cherry | `224` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#482633;border:1px solid #777;vertical-align:middle" title="#482633"></span> | `#482633` |
-| [ ] | Blue Belle | `2597` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Blue Echo | `2639` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Blue Hyacinth | `51019` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Blue Odyssey | `50858` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Bright Green | `227` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#379129;border:1px solid #777;vertical-align:middle" title="#379129"></span> | `#379129` |
-| [ ] | Bright Pink | `2546` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#EC4A91;border:1px solid #777;vertical-align:middle" title="#EC4A91"></span> | `#EC4A91` |
-| [ ] | Brilliant Ultramarine | `484` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#344C9A;border:1px solid #777;vertical-align:middle" title="#344C9A"></span> | `#344C9A` |
-| [ ] | Burnt Sienna | `943` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A94F2C;border:1px solid #777;vertical-align:middle" title="#A94F2C"></span> | `#A94F2C` |
-| [ ] | Burnt Umber | `462` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5A3827;border:1px solid #777;vertical-align:middle" title="#5A3827"></span> | `#5A3827` |
-| [ ] | Butter Pecan | `939` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#DBC969;border:1px solid #777;vertical-align:middle" title="#DBC969"></span> | `#DBC969` |
-| [ ] | Buttercup | `905` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F1D04B;border:1px solid #777;vertical-align:middle" title="#F1D04B"></span> | `#F1D04B` |
-| [ ] | Calypso Sky | `524` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5199C2;border:1px solid #777;vertical-align:middle" title="#5199C2"></span> | `#5199C2` |
-| [ ] | Camel | `953` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#9E7E59;border:1px solid #777;vertical-align:middle" title="#9E7E59"></span> | `#9E7E59` |
-| [ ] | Cameo Blush | `4657` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D9A0A4;border:1px solid #777;vertical-align:middle" title="#D9A0A4"></span> | `#D9A0A4` |
-| [ ] | Canyon Sunset | `36255` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D98555;border:1px solid #777;vertical-align:middle" title="#D98555"></span> | `#D98555` |
-| [ ] | Cardinal Red | `414` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B52636;border:1px solid #777;vertical-align:middle" title="#B52636"></span> | `#B52636` |
-| [ ] | Cayman Blue | `513` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Christmas Red | `958` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Cinnamon | `2558` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A85E3B;border:1px solid #777;vertical-align:middle" title="#A85E3B"></span> | `#A85E3B` |
-| [ ] | Citrus Green | `2552` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Classic French Gray | `6472` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A4A19A;border:1px solid #777;vertical-align:middle" title="#A4A19A"></span> | `#A4A19A` |
-| [ ] | Classic Green | `2554` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Cloudy Day | `2568` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B9C5C8;border:1px solid #777;vertical-align:middle" title="#B9C5C8"></span> | `#B9C5C8` |
-| [ ] | Clover | `923` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#267329;border:1px solid #777;vertical-align:middle" title="#267329"></span> | `#267329` |
-| [ ] | Cobalt Hue | `720` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#315DA8;border:1px solid #777;vertical-align:middle" title="#315DA8"></span> | `#315DA8` |
-| [ ] | Coffee Bean | `881` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#4A3025;border:1px solid #777;vertical-align:middle" title="#4A3025"></span> | `#4A3025` |
-| [ ] | Coffee Latte | `2559` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B99B7C;border:1px solid #777;vertical-align:middle" title="#B99B7C"></span> | `#B99B7C` |
-| [ ] | Conch Shell | `6447` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D8A3A0;border:1px solid #777;vertical-align:middle" title="#D8A3A0"></span> | `#D8A3A0` |
-| [ ] | Cottage Rose | `11930` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#BD6C7A;border:1px solid #777;vertical-align:middle" title="#BD6C7A"></span> | `#BD6C7A` |
-| [ ] | Cottage White | `6446` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F0EADD;border:1px solid #777;vertical-align:middle" title="#F0EADD"></span> | `#F0EADD` |
-| [ ] | Country Twill | `602` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#BCA98A;border:1px solid #777;vertical-align:middle" title="#BCA98A"></span> | `#BCA98A` |
-| [ ] | Creamy Coral | `51004` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#DE6B5B;border:1px solid #777;vertical-align:middle" title="#DE6B5B"></span> | `#DE6B5B` |
-| [ ] | Crocodile | `4663` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#77804B;border:1px solid #777;vertical-align:middle" title="#77804B"></span> | `#77804B` |
-| [ ] | Crushed Coral | `2565` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E77B68;border:1px solid #777;vertical-align:middle" title="#E77B68"></span> | `#E77B68` |
-| [ ] | Crystal Blue | `11932` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Daffodil Yellow | `2550` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E9D24A;border:1px solid #777;vertical-align:middle" title="#E9D24A"></span> | `#E9D24A` |
-| [ ] | Daybreak | `6448` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E7B85A;border:1px solid #777;vertical-align:middle" title="#E7B85A"></span> | `#E7B85A` |
-| [ ] | Deep Viridian | `51024` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#3E2819;border:1px solid #777;vertical-align:middle" title="#3E2819"></span> | `#3E2819` |
-| [ ] | Desert Flower | `36251` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C87991;border:1px solid #777;vertical-align:middle" title="#C87991"></span> | `#C87991` |
-| [ ] | Dolphin | `4665` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#8B969B;border:1px solid #777;vertical-align:middle" title="#8B969B"></span> | `#8B969B` |
-| [ ] | Dove Gray | `708` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A9A9A4;border:1px solid #777;vertical-align:middle" title="#A9A9A4"></span> | `#A9A9A4` |
-| [ ] | Dutch Aqua | `4664` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5BC2B5;border:1px solid #777;vertical-align:middle" title="#5BC2B5"></span> | `#5BC2B5` |
-| [ ] | Earthy Ochre | `51022` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A3813E;border:1px solid #777;vertical-align:middle" title="#A3813E"></span> | `#A3813E` |
-| [ ] | Eggplant | `2253` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#4B315C;border:1px solid #777;vertical-align:middle" title="#4B315C"></span> | `#4B315C` |
-| [ ] | Empress Teal | `51025` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#276D77;border:1px solid #777;vertical-align:middle" title="#276D77"></span> | `#276D77` |
-| [ ] | Engine Red | `436` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Faded Jade | `4667` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#428C6D;border:1px solid #777;vertical-align:middle" title="#428C6D"></span> | `#428C6D` |
-| [ ] | Fern Leaf | `36651` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#3E8732;border:1px solid #777;vertical-align:middle" title="#3E8732"></span> | `#3E8732` |
-| [ ] | Fire Coral | `6452` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E76758;border:1px solid #777;vertical-align:middle" title="#E76758"></span> | `#E76758` |
-| [ ] | Forest Moss | `527` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#1F5721;border:1px solid #777;vertical-align:middle" title="#1F5721"></span> | `#1F5721` |
-| [ ] | French Blue | `639` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | French Lilac | `2436` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AA8EB8;border:1px solid #777;vertical-align:middle" title="#AA8EB8"></span> | `#AA8EB8` |
-| [ ] | French Vanilla | `431` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F1E5C6;border:1px solid #777;vertical-align:middle" title="#F1E5C6"></span> | `#F1E5C6` |
-| [ ] | Fresh Cut Grass | `2579` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6F9C39;border:1px solid #777;vertical-align:middle" title="#6F9C39"></span> | `#6F9C39` |
-| [ ] | Fresh Foliage | `954` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#4D764E;border:1px solid #777;vertical-align:middle" title="#4D764E"></span> | `#4D764E` |
-| [ ] | Galaxy Blue | `99258` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Goldenrod | `2655` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D39C2E;border:1px solid #777;vertical-align:middle" title="#D39C2E"></span> | `#D39C2E` |
-| [ ] | Grass Green | `644` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Gray Frost | `50861` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#967862;border:1px solid #777;vertical-align:middle" title="#967862"></span> | `#967862` |
-| [ ] | Green | `408` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Green Sea | `2621` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#267B73;border:1px solid #777;vertical-align:middle" title="#267B73"></span> | `#267B73` |
-| [ ] | Green Whisper | `51007` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Greenscape | `2500` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#458353;border:1px solid #777;vertical-align:middle" title="#458353"></span> | `#458353` |
-| [ ] | Hazy Horizon | `50856` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#99AEB6;border:1px solid #777;vertical-align:middle" title="#99AEB6"></span> | `#99AEB6` |
-| [ ] | Hazy Moon | `11929` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C4BFB4;border:1px solid #777;vertical-align:middle" title="#C4BFB4"></span> | `#C4BFB4` |
-| [ ] | Holly Leaf | `228` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#3E8732;border:1px solid #777;vertical-align:middle" title="#3E8732"></span> | `#3E8732` |
-| [ ] | Honeycomb | `942` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D6A33D;border:1px solid #777;vertical-align:middle" title="#D6A33D"></span> | `#D6A33D` |
-| [ ] | Hot Pink | `634` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E83D87;border:1px solid #777;vertical-align:middle" title="#E83D87"></span> | `#E83D87` |
-| [ ] | Hot Saffron | `4660` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6E4426;border:1px solid #777;vertical-align:middle" title="#6E4426"></span> | `#6E4426` |
-| [ ] | Hunter Green | `406` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Iced Coffee | `6462` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#664431;border:1px solid #777;vertical-align:middle" title="#664431"></span> | `#664431` |
-| [ ] | Imperial Red | `4669` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Ink Spot | `2623` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#25262A;border:1px solid #777;vertical-align:middle" title="#25262A"></span> | `#25262A` |
-| [ ] | Italian Sage | `467` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#7FA376;border:1px solid #777;vertical-align:middle" title="#7FA376"></span> | `#7FA376` |
-| [ ] | Ivory White | `427` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F4EBD5;border:1px solid #777;vertical-align:middle" title="#F4EBD5"></span> | `#F4EBD5` |
-| [ ] | Jamaican Sea | `320` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#34878C;border:1px solid #777;vertical-align:middle" title="#34878C"></span> | `#34878C` |
-| [ ] | Lavender | `410` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A792C5;border:1px solid #777;vertical-align:middle" title="#A792C5"></span> | `#A792C5` |
-| [ ] | Lemonade | `904` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E7D45C;border:1px solid #777;vertical-align:middle" title="#E7D45C"></span> | `#E7D45C` |
-| [ ] | Licorice | `938` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#242124;border:1px solid #777;vertical-align:middle" title="#242124"></span> | `#242124` |
-| [ ] | Light Blue | `402` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#79B6D2;border:1px solid #777;vertical-align:middle" title="#79B6D2"></span> | `#79B6D2` |
-| [ ] | Light Lavender | `516` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#DABFF5;border:1px solid #777;vertical-align:middle" title="#DABFF5"></span> | `#DABFF5` |
-| [ ] | Lilac Ice | `4666` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#DABAF2;border:1px solid #777;vertical-align:middle" title="#DABAF2"></span> | `#DABAF2` |
-| [ ] | Lime Green | `2553` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Linen | `420` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E4D8C3;border:1px solid #777;vertical-align:middle" title="#E4D8C3"></span> | `#E4D8C3` |
-| [ ] | Lipstick Red | `437` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C51F3A;border:1px solid #777;vertical-align:middle" title="#C51F3A"></span> | `#C51F3A` |
-| [ ] | Look At Me Blue | `2587` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Magenta | `412` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C12C86;border:1px solid #777;vertical-align:middle" title="#C12C86"></span> | `#C12C86` |
-| [ ] | Maroon | `415` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6C2F40;border:1px solid #777;vertical-align:middle" title="#6C2F40"></span> | `#6C2F40` |
-| [ ] | Medium Gray | `425` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#868783;border:1px solid #777;vertical-align:middle" title="#868783"></span> | `#868783` |
-| [ ] | Medium Yellow | `455` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E0C326;border:1px solid #777;vertical-align:middle" title="#E0C326"></span> | `#E0C326` |
-| [ ] | Midnight | `964` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#0C182F;border:1px solid #777;vertical-align:middle" title="#0C182F"></span> | `#0C182F` |
-| [ ] | Midnight Garden | `2496` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#274761;border:1px solid #777;vertical-align:middle" title="#274761"></span> | `#274761` |
-| [ ] | Minted Aqua | `4621` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#75C8B8;border:1px solid #777;vertical-align:middle" title="#75C8B8"></span> | `#75C8B8` |
-| [ ] | Moon Yellow | `2551` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E7C74D;border:1px solid #777;vertical-align:middle" title="#E7C74D"></span> | `#E7C74D` |
-| [ ] | Mossy Meadow | `6456` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#64734B;border:1px solid #777;vertical-align:middle" title="#64734B"></span> | `#64734B` |
-| [ ] | Mushroom | `472` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#998D82;border:1px solid #777;vertical-align:middle" title="#998D82"></span> | `#998D82` |
-| [ ] | Mystic Turquoise | `99257` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2B9E9E;border:1px solid #777;vertical-align:middle" title="#2B9E9E"></span> | `#2B9E9E` |
-| [ ] | Navy Blue | `403` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#263C5A;border:1px solid #777;vertical-align:middle" title="#263C5A"></span> | `#263C5A` |
-| [ ] | New Leaf Green | `2578` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Newport Blue | `50857` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Nutmeg | `944` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#96724F;border:1px solid #777;vertical-align:middle" title="#96724F"></span> | `#96724F` |
-| [ ] | Ocean Cruise | `2225` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2A6282;border:1px solid #777;vertical-align:middle" title="#2A6282"></span> | `#2A6282` |
-| [ ] | Ocean View | `6459` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2A6282;border:1px solid #777;vertical-align:middle" title="#2A6282"></span> | `#2A6282` |
-| [ ] | Old Ivy | `927` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5D6943;border:1px solid #777;vertical-align:middle" title="#5D6943"></span> | `#5D6943` |
-| [ ] | Olive Green | `449` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Orchard Rose | `49911` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C46F78;border:1px solid #777;vertical-align:middle" title="#C46F78"></span> | `#C46F78` |
-| [ ] | Orchid Wisp | `51020` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#BA5DC2;border:1px solid #777;vertical-align:middle" title="#BA5DC2"></span> | `#BA5DC2` |
-| [ ] | Pale Gray | `6463` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#967862;border:1px solid #777;vertical-align:middle" title="#967862"></span> | `#967862` |
-| [ ] | Papaya Whip | `51013` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F2C7A7;border:1px solid #777;vertical-align:middle" title="#F2C7A7"></span> | `#F2C7A7` |
-| [ ] | Parchment | `450` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E9DDBF;border:1px solid #777;vertical-align:middle" title="#E9DDBF"></span> | `#E9DDBF` |
-| [ ] | Patina | `444` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5F9B91;border:1px solid #777;vertical-align:middle" title="#5F9B91"></span> | `#5F9B91` |
-| [ ] | Peppercorn | `6473` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#52515B;border:1px solid #777;vertical-align:middle" title="#52515B"></span> | `#52515B` |
-| [ ] | Perfect Purple | `2557` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#7750A0;border:1px solid #777;vertical-align:middle" title="#7750A0"></span> | `#7750A0` |
-| [ ] | Pink | `413` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D66B92;border:1px solid #777;vertical-align:middle" title="#D66B92"></span> | `#D66B92` |
-| [ ] | Pink Frosting | `36252` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D66B92;border:1px solid #777;vertical-align:middle" title="#D66B92"></span> | `#D66B92` |
-| [ ] | Podge Pink | `2390` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E98DB3;border:1px solid #777;vertical-align:middle" title="#E98DB3"></span> | `#E98DB3` |
-| [ ] | Podge Yellow | `2392` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E0C326;border:1px solid #777;vertical-align:middle" title="#E0C326"></span> | `#E0C326` |
-| [ ] | Prairie Sunset | `6453` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D78D55;border:1px solid #777;vertical-align:middle" title="#D78D55"></span> | `#D78D55` |
-| [ ] | Pueblo | `2249` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B56349;border:1px solid #777;vertical-align:middle" title="#B56349"></span> | `#B56349` |
-| [ ] | Pumpkin | `225` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D96827;border:1px solid #777;vertical-align:middle" title="#D96827"></span> | `#D96827` |
-| [ ] | Pure Black | `479` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#171717;border:1px solid #777;vertical-align:middle" title="#171717"></span> | `#171717` |
-| [ ] | Pure Orange | `628` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#DB6612;border:1px solid #777;vertical-align:middle" title="#DB6612"></span> | `#DB6612` |
-| [ ] | Raw Sienna | `452` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B8743F;border:1px solid #777;vertical-align:middle" title="#B8743F"></span> | `#B8743F` |
-| [ ] | Raw Umber | `485` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6A4C35;border:1px solid #777;vertical-align:middle" title="#6A4C35"></span> | `#6A4C35` |
-| [ ] | Real Brown | `231` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#63452F;border:1px solid #777;vertical-align:middle" title="#63452F"></span> | `#63452F` |
-| [ ] | Rose Pink | `632` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D97F9C;border:1px solid #777;vertical-align:middle" title="#D97F9C"></span> | `#D97F9C` |
-| [ ] | Rosette Pink | `36250` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D66B92;border:1px solid #777;vertical-align:middle" title="#D66B92"></span> | `#D66B92` |
-| [ ] | Rusted Pipe | `2502` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#9B5138;border:1px solid #777;vertical-align:middle" title="#9B5138"></span> | `#9B5138` |
-| [ ] | Sand Dollar | `51002` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D8CCB4;border:1px solid #777;vertical-align:middle" title="#D8CCB4"></span> | `#D8CCB4` |
-| [ ] | Sap Green | `458` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | School Bus Yellow | `736` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F2C600;border:1px solid #777;vertical-align:middle" title="#F2C600"></span> | `#F2C600` |
-| [ ] | Seashell Pink | `2485` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D66B92;border:1px solid #777;vertical-align:middle" title="#D66B92"></span> | `#D66B92` |
-| [ ] | Secret Meadow | `36650` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5F7A4E;border:1px solid #777;vertical-align:middle" title="#5F7A4E"></span> | `#5F7A4E` |
-| [ ] | Silver Marlin | `6465` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#728C97;border:1px solid #777;vertical-align:middle" title="#728C97"></span> | `#728C97` |
-| [ ] | Sky Mist | `2596` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#97D3F5;border:1px solid #777;vertical-align:middle" title="#97D3F5"></span> | `#97D3F5` |
-| [ ] | Skyline | `2499` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#58A8D6;border:1px solid #777;vertical-align:middle" title="#58A8D6"></span> | `#58A8D6` |
-| [ ] | Smoke Screen | `50862` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6C7175;border:1px solid #777;vertical-align:middle" title="#6C7175"></span> | `#6C7175` |
-| [ ] | Soft Apple | `526` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#967862;border:1px solid #777;vertical-align:middle" title="#967862"></span> | `#967862` |
-| [ ] | Starlight Gold | `6467` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#BD9631;border:1px solid #777;vertical-align:middle" title="#BD9631"></span> | `#BD9631` |
-| [ ] | Steel Gray | `2561` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#777D83;border:1px solid #777;vertical-align:middle" title="#777D83"></span> | `#777D83` |
-| [ ] | Succulent | `2637` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6D8B6E;border:1px solid #777;vertical-align:middle" title="#6D8B6E"></span> | `#6D8B6E` |
-| [ ] | Sunflower | `432` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E8C547;border:1px solid #777;vertical-align:middle" title="#E8C547"></span> | `#E8C547` |
-| [ ] | Sunny Yellow | `509` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E0DF26;border:1px solid #777;vertical-align:middle" title="#E0DF26"></span> | `#E0DF26` |
-| [ ] | Tangerine | `627` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#EB7B28;border:1px solid #777;vertical-align:middle" title="#EB7B28"></span> | `#EB7B28` |
-| [ ] | Teal | `405` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2D7A7A;border:1px solid #777;vertical-align:middle" title="#2D7A7A"></span> | `#2D7A7A` |
-| [ ] | Teddy Bear Brown | `417` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#80583B;border:1px solid #777;vertical-align:middle" title="#80583B"></span> | `#80583B` |
-| [ ] | Teddy Bear Tan | `419` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B89468;border:1px solid #777;vertical-align:middle" title="#B89468"></span> | `#B89468` |
-| [ ] | Terra Cotta | `433` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B75E45;border:1px solid #777;vertical-align:middle" title="#B75E45"></span> | `#B75E45` |
-| [ ] | Thicket | `924` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2D5925;border:1px solid #777;vertical-align:middle" title="#2D5925"></span> | `#2D5925` |
-| [ ] | Thunder Blue | `609` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Tickled Pink | `319` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E681A0;border:1px solid #777;vertical-align:middle" title="#E681A0"></span> | `#E681A0` |
-| [ ] | Titanium White | `480` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F7F7F2;border:1px solid #777;vertical-align:middle" title="#F7F7F2"></span> | `#F7F7F2` |
-| [ ] | Toasted Terra Cotta | `99254` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AB654B;border:1px solid #777;vertical-align:middle" title="#AB654B"></span> | `#AB654B` |
-| [ ] | True Blue | `401` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#175DB0;border:1px solid #777;vertical-align:middle" title="#175DB0"></span> | `#175DB0` |
-| [ ] | True Burgundy | `456` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#702335;border:1px solid #777;vertical-align:middle" title="#702335"></span> | `#702335` |
-| [ ] | Turquoise | `961` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2B9E9E;border:1px solid #777;vertical-align:middle" title="#2B9E9E"></span> | `#2B9E9E` |
-| [ ] | Uniform Blue | `2430` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#354D70;border:1px solid #777;vertical-align:middle" title="#354D70"></span> | `#354D70` |
-| [ ] | Victorian Violet | `6470` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#71449E;border:1px solid #777;vertical-align:middle" title="#71449E"></span> | `#71449E` |
-| [ ] | Villa Green | `2636` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Vintage Tea Rose | `6451` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B77679;border:1px solid #777;vertical-align:middle" title="#B77679"></span> | `#B77679` |
-| [ ] | Vintage White | `515` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F1E9D8;border:1px solid #777;vertical-align:middle" title="#F1E9D8"></span> | `#F1E9D8` |
-| [ ] | Violet Pansy | `440` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#65458F;border:1px solid #777;vertical-align:middle" title="#65458F"></span> | `#65458F` |
-| [ ] | Warm Bisque | `949` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#634D2F;border:1px solid #777;vertical-align:middle" title="#634D2F"></span> | `#634D2F` |
-| [ ] | Warm White | `649` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F6F0E2;border:1px solid #777;vertical-align:middle" title="#F6F0E2"></span> | `#F6F0E2` |
-| [ ] | Watery Blue | `51010` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Wicker White | `901` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F6F1E5;border:1px solid #777;vertical-align:middle" title="#F6F1E5"></span> | `#F6F1E5` |
-| [ ] | Wild Orchid | `36253` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#BA5DC2;border:1px solid #777;vertical-align:middle" title="#BA5DC2"></span> | `#BA5DC2` |
-| [ ] | Wild Rose | `11931` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#BD6C7A;border:1px solid #777;vertical-align:middle" title="#BD6C7A"></span> | `#BD6C7A` |
-| [ ] | Wild Truffle | `36652` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#766154;border:1px solid #777;vertical-align:middle" title="#766154"></span> | `#766154` |
-| [ ] | Wild Wasabi | `6455` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A1A849;border:1px solid #777;vertical-align:middle" title="#A1A849"></span> | `#A1A849` |
-| [ ] | Wrought Iron | `925` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#3F4140;border:1px solid #777;vertical-align:middle" title="#3F4140"></span> | `#3F4140` |
-| [ ] | Yellow Lemon | `226` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F5E64B;border:1px solid #777;vertical-align:middle" title="#F5E64B"></span> | `#F5E64B` |
-| [ ] | Yellow Ochre | `917` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C99A35;border:1px solid #777;vertical-align:middle" title="#C99A35"></span> | `#C99A35` |
+| [ ] | Adrift | `6460` | ![#628FA5](swatches/hex-628fa5.svg) | `#628FA5` |
+| [ ] | Alfalfa | `2427` | ![#A6B77D](swatches/hex-a6b77d.svg) | `#A6B77D` |
+| [ ] | Apple Orchard | `2241` | ![#78A63E](swatches/hex-78a63e.svg) | `#78A63E` |
+| [ ] | Apple Red | `2548` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Aqua | `481` | ![#5BC2B5](swatches/hex-5bc2b5.svg) | `#5BC2B5` |
+| [ ] | Asphaltum | `476` | ![#63513D](swatches/hex-63513d.svg) | `#63513D` |
+| [ ] | Baby Pink | `633` | ![#F1B9C3](swatches/hex-f1b9c3.svg) | `#F1B9C3` |
+| [ ] | Ballet Pink | `438` | ![#EAB6BC](swatches/hex-eab6bc.svg) | `#EAB6BC` |
+| [ ] | Bark Brown | `2560` | ![#63452F](swatches/hex-63452f.svg) | `#63452F` |
+| [ ] | Barn Wood | `936` | ![#877A6A](swatches/hex-877a6a.svg) | `#877A6A` |
+| [ ] | Barnyard Red | `611` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Basil Green | `645` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Berry Wine | `434` | ![#6C334C](swatches/hex-6c334c.svg) | `#6C334C` |
+| [ ] | Black Cherry | `224` | ![#482633](swatches/hex-482633.svg) | `#482633` |
+| [ ] | Blue Belle | `2597` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Blue Echo | `2639` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Blue Hyacinth | `51019` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Blue Odyssey | `50858` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Bright Green | `227` | ![#379129](swatches/hex-379129.svg) | `#379129` |
+| [ ] | Bright Pink | `2546` | ![#EC4A91](swatches/hex-ec4a91.svg) | `#EC4A91` |
+| [ ] | Brilliant Ultramarine | `484` | ![#344C9A](swatches/hex-344c9a.svg) | `#344C9A` |
+| [ ] | Burnt Sienna | `943` | ![#A94F2C](swatches/hex-a94f2c.svg) | `#A94F2C` |
+| [ ] | Burnt Umber | `462` | ![#5A3827](swatches/hex-5a3827.svg) | `#5A3827` |
+| [ ] | Butter Pecan | `939` | ![#DBC969](swatches/hex-dbc969.svg) | `#DBC969` |
+| [ ] | Buttercup | `905` | ![#F1D04B](swatches/hex-f1d04b.svg) | `#F1D04B` |
+| [ ] | Calypso Sky | `524` | ![#5199C2](swatches/hex-5199c2.svg) | `#5199C2` |
+| [ ] | Camel | `953` | ![#9E7E59](swatches/hex-9e7e59.svg) | `#9E7E59` |
+| [ ] | Cameo Blush | `4657` | ![#D9A0A4](swatches/hex-d9a0a4.svg) | `#D9A0A4` |
+| [ ] | Canyon Sunset | `36255` | ![#D98555](swatches/hex-d98555.svg) | `#D98555` |
+| [ ] | Cardinal Red | `414` | ![#B52636](swatches/hex-b52636.svg) | `#B52636` |
+| [ ] | Cayman Blue | `513` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Christmas Red | `958` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Cinnamon | `2558` | ![#A85E3B](swatches/hex-a85e3b.svg) | `#A85E3B` |
+| [ ] | Citrus Green | `2552` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Classic French Gray | `6472` | ![#A4A19A](swatches/hex-a4a19a.svg) | `#A4A19A` |
+| [ ] | Classic Green | `2554` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Cloudy Day | `2568` | ![#B9C5C8](swatches/hex-b9c5c8.svg) | `#B9C5C8` |
+| [ ] | Clover | `923` | ![#267329](swatches/hex-267329.svg) | `#267329` |
+| [ ] | Cobalt Hue | `720` | ![#315DA8](swatches/hex-315da8.svg) | `#315DA8` |
+| [ ] | Coffee Bean | `881` | ![#4A3025](swatches/hex-4a3025.svg) | `#4A3025` |
+| [ ] | Coffee Latte | `2559` | ![#B99B7C](swatches/hex-b99b7c.svg) | `#B99B7C` |
+| [ ] | Conch Shell | `6447` | ![#D8A3A0](swatches/hex-d8a3a0.svg) | `#D8A3A0` |
+| [ ] | Cottage Rose | `11930` | ![#BD6C7A](swatches/hex-bd6c7a.svg) | `#BD6C7A` |
+| [ ] | Cottage White | `6446` | ![#F0EADD](swatches/hex-f0eadd.svg) | `#F0EADD` |
+| [ ] | Country Twill | `602` | ![#BCA98A](swatches/hex-bca98a.svg) | `#BCA98A` |
+| [ ] | Creamy Coral | `51004` | ![#DE6B5B](swatches/hex-de6b5b.svg) | `#DE6B5B` |
+| [ ] | Crocodile | `4663` | ![#77804B](swatches/hex-77804b.svg) | `#77804B` |
+| [ ] | Crushed Coral | `2565` | ![#E77B68](swatches/hex-e77b68.svg) | `#E77B68` |
+| [ ] | Crystal Blue | `11932` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Daffodil Yellow | `2550` | ![#E9D24A](swatches/hex-e9d24a.svg) | `#E9D24A` |
+| [ ] | Daybreak | `6448` | ![#E7B85A](swatches/hex-e7b85a.svg) | `#E7B85A` |
+| [ ] | Deep Viridian | `51024` | ![#3E2819](swatches/hex-3e2819.svg) | `#3E2819` |
+| [ ] | Desert Flower | `36251` | ![#C87991](swatches/hex-c87991.svg) | `#C87991` |
+| [ ] | Dolphin | `4665` | ![#8B969B](swatches/hex-8b969b.svg) | `#8B969B` |
+| [ ] | Dove Gray | `708` | ![#A9A9A4](swatches/hex-a9a9a4.svg) | `#A9A9A4` |
+| [ ] | Dutch Aqua | `4664` | ![#5BC2B5](swatches/hex-5bc2b5.svg) | `#5BC2B5` |
+| [ ] | Earthy Ochre | `51022` | ![#A3813E](swatches/hex-a3813e.svg) | `#A3813E` |
+| [ ] | Eggplant | `2253` | ![#4B315C](swatches/hex-4b315c.svg) | `#4B315C` |
+| [ ] | Empress Teal | `51025` | ![#276D77](swatches/hex-276d77.svg) | `#276D77` |
+| [ ] | Engine Red | `436` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Faded Jade | `4667` | ![#428C6D](swatches/hex-428c6d.svg) | `#428C6D` |
+| [ ] | Fern Leaf | `36651` | ![#3E8732](swatches/hex-3e8732.svg) | `#3E8732` |
+| [ ] | Fire Coral | `6452` | ![#E76758](swatches/hex-e76758.svg) | `#E76758` |
+| [ ] | Forest Moss | `527` | ![#1F5721](swatches/hex-1f5721.svg) | `#1F5721` |
+| [ ] | French Blue | `639` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | French Lilac | `2436` | ![#AA8EB8](swatches/hex-aa8eb8.svg) | `#AA8EB8` |
+| [ ] | French Vanilla | `431` | ![#F1E5C6](swatches/hex-f1e5c6.svg) | `#F1E5C6` |
+| [ ] | Fresh Cut Grass | `2579` | ![#6F9C39](swatches/hex-6f9c39.svg) | `#6F9C39` |
+| [ ] | Fresh Foliage | `954` | ![#4D764E](swatches/hex-4d764e.svg) | `#4D764E` |
+| [ ] | Galaxy Blue | `99258` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Goldenrod | `2655` | ![#D39C2E](swatches/hex-d39c2e.svg) | `#D39C2E` |
+| [ ] | Grass Green | `644` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Gray Frost | `50861` | ![#967862](swatches/hex-967862.svg) | `#967862` |
+| [ ] | Green | `408` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Green Sea | `2621` | ![#267B73](swatches/hex-267b73.svg) | `#267B73` |
+| [ ] | Green Whisper | `51007` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Greenscape | `2500` | ![#458353](swatches/hex-458353.svg) | `#458353` |
+| [ ] | Hazy Horizon | `50856` | ![#99AEB6](swatches/hex-99aeb6.svg) | `#99AEB6` |
+| [ ] | Hazy Moon | `11929` | ![#C4BFB4](swatches/hex-c4bfb4.svg) | `#C4BFB4` |
+| [ ] | Holly Leaf | `228` | ![#3E8732](swatches/hex-3e8732.svg) | `#3E8732` |
+| [ ] | Honeycomb | `942` | ![#D6A33D](swatches/hex-d6a33d.svg) | `#D6A33D` |
+| [ ] | Hot Pink | `634` | ![#E83D87](swatches/hex-e83d87.svg) | `#E83D87` |
+| [ ] | Hot Saffron | `4660` | ![#6E4426](swatches/hex-6e4426.svg) | `#6E4426` |
+| [ ] | Hunter Green | `406` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Iced Coffee | `6462` | ![#664431](swatches/hex-664431.svg) | `#664431` |
+| [ ] | Imperial Red | `4669` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Ink Spot | `2623` | ![#25262A](swatches/hex-25262a.svg) | `#25262A` |
+| [ ] | Italian Sage | `467` | ![#7FA376](swatches/hex-7fa376.svg) | `#7FA376` |
+| [ ] | Ivory White | `427` | ![#F4EBD5](swatches/hex-f4ebd5.svg) | `#F4EBD5` |
+| [ ] | Jamaican Sea | `320` | ![#34878C](swatches/hex-34878c.svg) | `#34878C` |
+| [ ] | Lavender | `410` | ![#A792C5](swatches/hex-a792c5.svg) | `#A792C5` |
+| [ ] | Lemonade | `904` | ![#E7D45C](swatches/hex-e7d45c.svg) | `#E7D45C` |
+| [ ] | Licorice | `938` | ![#242124](swatches/hex-242124.svg) | `#242124` |
+| [ ] | Light Blue | `402` | ![#79B6D2](swatches/hex-79b6d2.svg) | `#79B6D2` |
+| [ ] | Light Lavender | `516` | ![#DABFF5](swatches/hex-dabff5.svg) | `#DABFF5` |
+| [ ] | Lilac Ice | `4666` | ![#DABAF2](swatches/hex-dabaf2.svg) | `#DABAF2` |
+| [ ] | Lime Green | `2553` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Linen | `420` | ![#E4D8C3](swatches/hex-e4d8c3.svg) | `#E4D8C3` |
+| [ ] | Lipstick Red | `437` | ![#C51F3A](swatches/hex-c51f3a.svg) | `#C51F3A` |
+| [ ] | Look At Me Blue | `2587` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Magenta | `412` | ![#C12C86](swatches/hex-c12c86.svg) | `#C12C86` |
+| [ ] | Maroon | `415` | ![#6C2F40](swatches/hex-6c2f40.svg) | `#6C2F40` |
+| [ ] | Medium Gray | `425` | ![#868783](swatches/hex-868783.svg) | `#868783` |
+| [ ] | Medium Yellow | `455` | ![#E0C326](swatches/hex-e0c326.svg) | `#E0C326` |
+| [ ] | Midnight | `964` | ![#0C182F](swatches/hex-0c182f.svg) | `#0C182F` |
+| [ ] | Midnight Garden | `2496` | ![#274761](swatches/hex-274761.svg) | `#274761` |
+| [ ] | Minted Aqua | `4621` | ![#75C8B8](swatches/hex-75c8b8.svg) | `#75C8B8` |
+| [ ] | Moon Yellow | `2551` | ![#E7C74D](swatches/hex-e7c74d.svg) | `#E7C74D` |
+| [ ] | Mossy Meadow | `6456` | ![#64734B](swatches/hex-64734b.svg) | `#64734B` |
+| [ ] | Mushroom | `472` | ![#998D82](swatches/hex-998d82.svg) | `#998D82` |
+| [ ] | Mystic Turquoise | `99257` | ![#2B9E9E](swatches/hex-2b9e9e.svg) | `#2B9E9E` |
+| [ ] | Navy Blue | `403` | ![#263C5A](swatches/hex-263c5a.svg) | `#263C5A` |
+| [ ] | New Leaf Green | `2578` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Newport Blue | `50857` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Nutmeg | `944` | ![#96724F](swatches/hex-96724f.svg) | `#96724F` |
+| [ ] | Ocean Cruise | `2225` | ![#2A6282](swatches/hex-2a6282.svg) | `#2A6282` |
+| [ ] | Ocean View | `6459` | ![#2A6282](swatches/hex-2a6282.svg) | `#2A6282` |
+| [ ] | Old Ivy | `927` | ![#5D6943](swatches/hex-5d6943.svg) | `#5D6943` |
+| [ ] | Olive Green | `449` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Orchard Rose | `49911` | ![#C46F78](swatches/hex-c46f78.svg) | `#C46F78` |
+| [ ] | Orchid Wisp | `51020` | ![#BA5DC2](swatches/hex-ba5dc2.svg) | `#BA5DC2` |
+| [ ] | Pale Gray | `6463` | ![#967862](swatches/hex-967862.svg) | `#967862` |
+| [ ] | Papaya Whip | `51013` | ![#F2C7A7](swatches/hex-f2c7a7.svg) | `#F2C7A7` |
+| [ ] | Parchment | `450` | ![#E9DDBF](swatches/hex-e9ddbf.svg) | `#E9DDBF` |
+| [ ] | Patina | `444` | ![#5F9B91](swatches/hex-5f9b91.svg) | `#5F9B91` |
+| [ ] | Peppercorn | `6473` | ![#52515B](swatches/hex-52515b.svg) | `#52515B` |
+| [ ] | Perfect Purple | `2557` | ![#7750A0](swatches/hex-7750a0.svg) | `#7750A0` |
+| [ ] | Pink | `413` | ![#D66B92](swatches/hex-d66b92.svg) | `#D66B92` |
+| [ ] | Pink Frosting | `36252` | ![#D66B92](swatches/hex-d66b92.svg) | `#D66B92` |
+| [ ] | Podge Pink | `2390` | ![#E98DB3](swatches/hex-e98db3.svg) | `#E98DB3` |
+| [ ] | Podge Yellow | `2392` | ![#E0C326](swatches/hex-e0c326.svg) | `#E0C326` |
+| [ ] | Prairie Sunset | `6453` | ![#D78D55](swatches/hex-d78d55.svg) | `#D78D55` |
+| [ ] | Pueblo | `2249` | ![#B56349](swatches/hex-b56349.svg) | `#B56349` |
+| [ ] | Pumpkin | `225` | ![#D96827](swatches/hex-d96827.svg) | `#D96827` |
+| [ ] | Pure Black | `479` | ![#171717](swatches/hex-171717.svg) | `#171717` |
+| [ ] | Pure Orange | `628` | ![#DB6612](swatches/hex-db6612.svg) | `#DB6612` |
+| [ ] | Raw Sienna | `452` | ![#B8743F](swatches/hex-b8743f.svg) | `#B8743F` |
+| [ ] | Raw Umber | `485` | ![#6A4C35](swatches/hex-6a4c35.svg) | `#6A4C35` |
+| [ ] | Real Brown | `231` | ![#63452F](swatches/hex-63452f.svg) | `#63452F` |
+| [ ] | Rose Pink | `632` | ![#D97F9C](swatches/hex-d97f9c.svg) | `#D97F9C` |
+| [ ] | Rosette Pink | `36250` | ![#D66B92](swatches/hex-d66b92.svg) | `#D66B92` |
+| [ ] | Rusted Pipe | `2502` | ![#9B5138](swatches/hex-9b5138.svg) | `#9B5138` |
+| [ ] | Sand Dollar | `51002` | ![#D8CCB4](swatches/hex-d8ccb4.svg) | `#D8CCB4` |
+| [ ] | Sap Green | `458` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | School Bus Yellow | `736` | ![#F2C600](swatches/hex-f2c600.svg) | `#F2C600` |
+| [ ] | Seashell Pink | `2485` | ![#D66B92](swatches/hex-d66b92.svg) | `#D66B92` |
+| [ ] | Secret Meadow | `36650` | ![#5F7A4E](swatches/hex-5f7a4e.svg) | `#5F7A4E` |
+| [ ] | Silver Marlin | `6465` | ![#728C97](swatches/hex-728c97.svg) | `#728C97` |
+| [ ] | Sky Mist | `2596` | ![#97D3F5](swatches/hex-97d3f5.svg) | `#97D3F5` |
+| [ ] | Skyline | `2499` | ![#58A8D6](swatches/hex-58a8d6.svg) | `#58A8D6` |
+| [ ] | Smoke Screen | `50862` | ![#6C7175](swatches/hex-6c7175.svg) | `#6C7175` |
+| [ ] | Soft Apple | `526` | ![#967862](swatches/hex-967862.svg) | `#967862` |
+| [ ] | Starlight Gold | `6467` | ![#BD9631](swatches/hex-bd9631.svg) | `#BD9631` |
+| [ ] | Steel Gray | `2561` | ![#777D83](swatches/hex-777d83.svg) | `#777D83` |
+| [ ] | Succulent | `2637` | ![#6D8B6E](swatches/hex-6d8b6e.svg) | `#6D8B6E` |
+| [ ] | Sunflower | `432` | ![#E8C547](swatches/hex-e8c547.svg) | `#E8C547` |
+| [ ] | Sunny Yellow | `509` | ![#E0DF26](swatches/hex-e0df26.svg) | `#E0DF26` |
+| [ ] | Tangerine | `627` | ![#EB7B28](swatches/hex-eb7b28.svg) | `#EB7B28` |
+| [ ] | Teal | `405` | ![#2D7A7A](swatches/hex-2d7a7a.svg) | `#2D7A7A` |
+| [ ] | Teddy Bear Brown | `417` | ![#80583B](swatches/hex-80583b.svg) | `#80583B` |
+| [ ] | Teddy Bear Tan | `419` | ![#B89468](swatches/hex-b89468.svg) | `#B89468` |
+| [ ] | Terra Cotta | `433` | ![#B75E45](swatches/hex-b75e45.svg) | `#B75E45` |
+| [ ] | Thicket | `924` | ![#2D5925](swatches/hex-2d5925.svg) | `#2D5925` |
+| [ ] | Thunder Blue | `609` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Tickled Pink | `319` | ![#E681A0](swatches/hex-e681a0.svg) | `#E681A0` |
+| [ ] | Titanium White | `480` | ![#F7F7F2](swatches/hex-f7f7f2.svg) | `#F7F7F2` |
+| [ ] | Toasted Terra Cotta | `99254` | ![#AB654B](swatches/hex-ab654b.svg) | `#AB654B` |
+| [ ] | True Blue | `401` | ![#175DB0](swatches/hex-175db0.svg) | `#175DB0` |
+| [ ] | True Burgundy | `456` | ![#702335](swatches/hex-702335.svg) | `#702335` |
+| [ ] | Turquoise | `961` | ![#2B9E9E](swatches/hex-2b9e9e.svg) | `#2B9E9E` |
+| [ ] | Uniform Blue | `2430` | ![#354D70](swatches/hex-354d70.svg) | `#354D70` |
+| [ ] | Victorian Violet | `6470` | ![#71449E](swatches/hex-71449e.svg) | `#71449E` |
+| [ ] | Villa Green | `2636` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Vintage Tea Rose | `6451` | ![#B77679](swatches/hex-b77679.svg) | `#B77679` |
+| [ ] | Vintage White | `515` | ![#F1E9D8](swatches/hex-f1e9d8.svg) | `#F1E9D8` |
+| [ ] | Violet Pansy | `440` | ![#65458F](swatches/hex-65458f.svg) | `#65458F` |
+| [ ] | Warm Bisque | `949` | ![#634D2F](swatches/hex-634d2f.svg) | `#634D2F` |
+| [ ] | Warm White | `649` | ![#F6F0E2](swatches/hex-f6f0e2.svg) | `#F6F0E2` |
+| [ ] | Watery Blue | `51010` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Wicker White | `901` | ![#F6F1E5](swatches/hex-f6f1e5.svg) | `#F6F1E5` |
+| [ ] | Wild Orchid | `36253` | ![#BA5DC2](swatches/hex-ba5dc2.svg) | `#BA5DC2` |
+| [ ] | Wild Rose | `11931` | ![#BD6C7A](swatches/hex-bd6c7a.svg) | `#BD6C7A` |
+| [ ] | Wild Truffle | `36652` | ![#766154](swatches/hex-766154.svg) | `#766154` |
+| [ ] | Wild Wasabi | `6455` | ![#A1A849](swatches/hex-a1a849.svg) | `#A1A849` |
+| [ ] | Wrought Iron | `925` | ![#3F4140](swatches/hex-3f4140.svg) | `#3F4140` |
+| [ ] | Yellow Lemon | `226` | ![#F5E64B](swatches/hex-f5e64b.svg) | `#F5E64B` |
+| [ ] | Yellow Ochre | `917` | ![#C99A35](swatches/hex-c99a35.svg) | `#C99A35` |
 
 Source: [FolkArt Acrylic Colors](https://plaidonline.com/folkart-matte-acrylic-paint).
 
@@ -460,80 +460,80 @@ Source: [FolkArt Acrylic Colors](https://plaidonline.com/folkart-matte-acrylic-p
 
 | Own it? | Color | Code | CSS swatch | Hex |
 |:---:|---|---|---|---|
-| [ ] | Antique White | `02001` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F3EADB;border:1px solid #777;vertical-align:middle" title="#F3EADB"></span> | `#F3EADB` |
-| [ ] | Autumn Brown | `02055` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#63452F;border:1px solid #777;vertical-align:middle" title="#63452F"></span> | `#63452F` |
-| [ ] | Bambi Brown | `02424` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#63452F;border:1px solid #777;vertical-align:middle" title="#63452F"></span> | `#63452F` |
-| [ ] | Barn Red | `02490` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#8F302D;border:1px solid #777;vertical-align:middle" title="#8F302D"></span> | `#8F302D` |
-| [ ] | Bittersweet Orange | `02041` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C8512D;border:1px solid #777;vertical-align:middle" title="#C8512D"></span> | `#C8512D` |
-| [ ] | Black | `02506` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#1A1A1A;border:1px solid #777;vertical-align:middle" title="#1A1A1A"></span> | `#1A1A1A` |
-| [ ] | Blue Heaven | `02037` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Blue Jay | `02059` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Bridgeport Grey | `02440` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#8B8D8F;border:1px solid #777;vertical-align:middle" title="#8B8D8F"></span> | `#8B8D8F` |
-| [ ] | Bright Red | `02503` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B8121C;border:1px solid #777;vertical-align:middle" title="#B8121C"></span> | `#B8121C` |
-| [ ] | Bright Yellow | `02027` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F2D21C;border:1px solid #777;vertical-align:middle" title="#F2D21C"></span> | `#F2D21C` |
-| [ ] | Burnt Umber | `02025` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#5A3827;border:1px solid #777;vertical-align:middle" title="#5A3827"></span> | `#5A3827` |
-| [ ] | Calypso Coral | `04870` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#EA7769;border:1px solid #777;vertical-align:middle" title="#EA7769"></span> | `#EA7769` |
-| [ ] | Caribbean Blue | `02530` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Charcoal | `02436` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#4A4A48;border:1px solid #777;vertical-align:middle" title="#4A4A48"></span> | `#4A4A48` |
-| [ ] | Christmas Green | `02068` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Crocus Yellow | `02459` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E0C326;border:1px solid #777;vertical-align:middle" title="#E0C326"></span> | `#E0C326` |
-| [ ] | Dark Brown | `02053` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#3E2819;border:1px solid #777;vertical-align:middle" title="#3E2819"></span> | `#3E2819` |
-| [ ] | Dark Foliage Green | `02535` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#23541B;border:1px solid #777;vertical-align:middle" title="#23541B"></span> | `#23541B` |
-| [ ] | Denim Blue | `02477` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Empire Gold | `02412` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#BD9631;border:1px solid #777;vertical-align:middle" title="#BD9631"></span> | `#BD9631` |
-| [ ] | Fire Red | `02083` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Forest Green | `02010` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Fuchsia | `02481` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D22B83;border:1px solid #777;vertical-align:middle" title="#D22B83"></span> | `#D22B83` |
-| [ ] | GP Purple | `02091` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#6F478F;border:1px solid #777;vertical-align:middle" title="#6F478F"></span> | `#6F478F` |
-| [ ] | Hippo Grey | `02090` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#8E9291;border:1px solid #777;vertical-align:middle" title="#8E9291"></span> | `#8E9291` |
-| [ ] | Hunter Green | `02471` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Hydrangea Pink | `02449` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D66B92;border:1px solid #777;vertical-align:middle" title="#D66B92"></span> | `#D66B92` |
-| [ ] | Ivory | `02036` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E0D5B8;border:1px solid #777;vertical-align:middle" title="#E0D5B8"></span> | `#E0D5B8` |
-| [ ] | Jute | `04082` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B19D7B;border:1px solid #777;vertical-align:middle" title="#B19D7B"></span> | `#B19D7B` |
-| [ ] | Laguna Blue | `02418` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Leaf Green | `02067` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Light Foliage Green | `02537` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#7BBA70;border:1px solid #777;vertical-align:middle" title="#7BBA70"></span> | `#7BBA70` |
-| [ ] | Light Ivory | `02401` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F3EAD5;border:1px solid #777;vertical-align:middle" title="#F3EAD5"></span> | `#F3EAD5` |
-| [ ] | Lime Green | `02489` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Lime Sorbet | `02586` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A7C95C;border:1px solid #777;vertical-align:middle" title="#A7C95C"></span> | `#A7C95C` |
-| [ ] | Lisa Pink | `02084` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D66B92;border:1px solid #777;vertical-align:middle" title="#D66B92"></span> | `#D66B92` |
-| [ ] | Mediterranean | `02589` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#3B8C9B;border:1px solid #777;vertical-align:middle" title="#3B8C9B"></span> | `#3B8C9B` |
-| [ ] | Medium Foliage Green | `02536` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Midnight Blue | `02114` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#1D2A4A;border:1px solid #777;vertical-align:middle" title="#1D2A4A"></span> | `#1D2A4A` |
-| [ ] | Natural Beige | `02085` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C9B597;border:1px solid #777;vertical-align:middle" title="#C9B597"></span> | `#C9B597` |
-| [ ] | Navy Blue | `02089` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#263C5A;border:1px solid #777;vertical-align:middle" title="#263C5A"></span> | `#263C5A` |
-| [ ] | Nightfall Blue | `02131` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Ocean Reef Blue | `02074` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Opaque Red | `02507` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Oyster White | `02492` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#EDE8D8;border:1px solid #777;vertical-align:middle" title="#EDE8D8"></span> | `#EDE8D8` |
-| [ ] | Pale Yellow | `02005` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F0E39B;border:1px solid #777;vertical-align:middle" title="#F0E39B"></span> | `#F0E39B` |
-| [ ] | Paradise | `02587` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2D9A8C;border:1px solid #777;vertical-align:middle" title="#2D9A8C"></span> | `#2D9A8C` |
-| [ ] | Passion | `02590` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B73D68;border:1px solid #777;vertical-align:middle" title="#B73D68"></span> | `#B73D68` |
-| [ ] | Phthalo Blue | `02502` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#087A9A;border:1px solid #777;vertical-align:middle" title="#087A9A"></span> | `#087A9A` |
-| [ ] | Pretty Pink | `02088` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D66B92;border:1px solid #777;vertical-align:middle" title="#D66B92"></span> | `#D66B92` |
-| [ ] | Pumpkin | `02042` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#D96827;border:1px solid #777;vertical-align:middle" title="#D96827"></span> | `#D96827` |
-| [ ] | Purple | `02015` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#754A91;border:1px solid #777;vertical-align:middle" title="#754A91"></span> | `#754A91` |
-| [ ] | Quaker Grey | `02057` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#73797A;border:1px solid #777;vertical-align:middle" title="#73797A"></span> | `#73797A` |
-| [ ] | Rain Grey | `02543` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#9CA4A7;border:1px solid #777;vertical-align:middle" title="#9CA4A7"></span> | `#9CA4A7` |
-| [ ] | Raw Sienna | `02411` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B8743F;border:1px solid #777;vertical-align:middle" title="#B8743F"></span> | `#B8743F` |
-| [ ] | Rosy Beige | `02019` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#CFADA6;border:1px solid #777;vertical-align:middle" title="#CFADA6"></span> | `#CFADA6` |
-| [ ] | Salmon | `02711` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#C7675A;border:1px solid #777;vertical-align:middle" title="#C7675A"></span> | `#C7675A` |
-| [ ] | Sandstone | `02402` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#CBB896;border:1px solid #777;vertical-align:middle" title="#CBB896"></span> | `#CBB896` |
-| [ ] | Sea Foam | `02675` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#A9D6C5;border:1px solid #777;vertical-align:middle" title="#A9D6C5"></span> | `#A9D6C5` |
-| [ ] | Seminole Green | `02009` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | Spice Brown | `02049` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#63452F;border:1px solid #777;vertical-align:middle" title="#63452F"></span> | `#63452F` |
-| [ ] | Sunbright Yellow | `02064` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E8C52F;border:1px solid #777;vertical-align:middle" title="#E8C52F"></span> | `#E8C52F` |
-| [ ] | Tahiti Blue | `3` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2963A6;border:1px solid #777;vertical-align:middle" title="#2963A6"></span> | `#2963A6` |
-| [ ] | Tangerine | `02043` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#EB7B28;border:1px solid #777;vertical-align:middle" title="#EB7B28"></span> | `#EB7B28` |
-| [ ] | Tawny Medium | `02126` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#9B785B;border:1px solid #777;vertical-align:middle" title="#9B785B"></span> | `#9B785B` |
-| [ ] | Terra Cotta | `02071` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B75E45;border:1px solid #777;vertical-align:middle" title="#B75E45"></span> | `#B75E45` |
-| [ ] | Territorial Beige | `02425` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#B9A88B;border:1px solid #777;vertical-align:middle" title="#B9A88B"></span> | `#B9A88B` |
-| [ ] | Tompte Red | `02107` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#AD262E;border:1px solid #777;vertical-align:middle" title="#AD262E"></span> | `#AD262E` |
-| [ ] | Turquoise | `02012` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#2B9E9E;border:1px solid #777;vertical-align:middle" title="#2B9E9E"></span> | `#2B9E9E` |
-| [ ] | Waterfall | `04081` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#4FA9AE;border:1px solid #777;vertical-align:middle" title="#4FA9AE"></span> | `#4FA9AE` |
-| [ ] | Wedgwood Green | `02070` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#418736;border:1px solid #777;vertical-align:middle" title="#418736"></span> | `#418736` |
-| [ ] | White | `02505` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#F0EADD;border:1px solid #777;vertical-align:middle" title="#F0EADD"></span> | `#F0EADD` |
-| [ ] | Yellow | `02504` | <span style="display:inline-block;width:1.15em;height:1.15em;background-color:#E0C326;border:1px solid #777;vertical-align:middle" title="#E0C326"></span> | `#E0C326` |
+| [ ] | Antique White | `02001` | ![#F3EADB](swatches/hex-f3eadb.svg) | `#F3EADB` |
+| [ ] | Autumn Brown | `02055` | ![#63452F](swatches/hex-63452f.svg) | `#63452F` |
+| [ ] | Bambi Brown | `02424` | ![#63452F](swatches/hex-63452f.svg) | `#63452F` |
+| [ ] | Barn Red | `02490` | ![#8F302D](swatches/hex-8f302d.svg) | `#8F302D` |
+| [ ] | Bittersweet Orange | `02041` | ![#C8512D](swatches/hex-c8512d.svg) | `#C8512D` |
+| [ ] | Black | `02506` | ![#1A1A1A](swatches/hex-1a1a1a.svg) | `#1A1A1A` |
+| [ ] | Blue Heaven | `02037` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Blue Jay | `02059` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Bridgeport Grey | `02440` | ![#8B8D8F](swatches/hex-8b8d8f.svg) | `#8B8D8F` |
+| [ ] | Bright Red | `02503` | ![#B8121C](swatches/hex-b8121c.svg) | `#B8121C` |
+| [ ] | Bright Yellow | `02027` | ![#F2D21C](swatches/hex-f2d21c.svg) | `#F2D21C` |
+| [ ] | Burnt Umber | `02025` | ![#5A3827](swatches/hex-5a3827.svg) | `#5A3827` |
+| [ ] | Calypso Coral | `04870` | ![#EA7769](swatches/hex-ea7769.svg) | `#EA7769` |
+| [ ] | Caribbean Blue | `02530` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Charcoal | `02436` | ![#4A4A48](swatches/hex-4a4a48.svg) | `#4A4A48` |
+| [ ] | Christmas Green | `02068` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Crocus Yellow | `02459` | ![#E0C326](swatches/hex-e0c326.svg) | `#E0C326` |
+| [ ] | Dark Brown | `02053` | ![#3E2819](swatches/hex-3e2819.svg) | `#3E2819` |
+| [ ] | Dark Foliage Green | `02535` | ![#23541B](swatches/hex-23541b.svg) | `#23541B` |
+| [ ] | Denim Blue | `02477` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Empire Gold | `02412` | ![#BD9631](swatches/hex-bd9631.svg) | `#BD9631` |
+| [ ] | Fire Red | `02083` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Forest Green | `02010` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Fuchsia | `02481` | ![#D22B83](swatches/hex-d22b83.svg) | `#D22B83` |
+| [ ] | GP Purple | `02091` | ![#6F478F](swatches/hex-6f478f.svg) | `#6F478F` |
+| [ ] | Hippo Grey | `02090` | ![#8E9291](swatches/hex-8e9291.svg) | `#8E9291` |
+| [ ] | Hunter Green | `02471` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Hydrangea Pink | `02449` | ![#D66B92](swatches/hex-d66b92.svg) | `#D66B92` |
+| [ ] | Ivory | `02036` | ![#E0D5B8](swatches/hex-e0d5b8.svg) | `#E0D5B8` |
+| [ ] | Jute | `04082` | ![#B19D7B](swatches/hex-b19d7b.svg) | `#B19D7B` |
+| [ ] | Laguna Blue | `02418` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Leaf Green | `02067` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Light Foliage Green | `02537` | ![#7BBA70](swatches/hex-7bba70.svg) | `#7BBA70` |
+| [ ] | Light Ivory | `02401` | ![#F3EAD5](swatches/hex-f3ead5.svg) | `#F3EAD5` |
+| [ ] | Lime Green | `02489` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Lime Sorbet | `02586` | ![#A7C95C](swatches/hex-a7c95c.svg) | `#A7C95C` |
+| [ ] | Lisa Pink | `02084` | ![#D66B92](swatches/hex-d66b92.svg) | `#D66B92` |
+| [ ] | Mediterranean | `02589` | ![#3B8C9B](swatches/hex-3b8c9b.svg) | `#3B8C9B` |
+| [ ] | Medium Foliage Green | `02536` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Midnight Blue | `02114` | ![#1D2A4A](swatches/hex-1d2a4a.svg) | `#1D2A4A` |
+| [ ] | Natural Beige | `02085` | ![#C9B597](swatches/hex-c9b597.svg) | `#C9B597` |
+| [ ] | Navy Blue | `02089` | ![#263C5A](swatches/hex-263c5a.svg) | `#263C5A` |
+| [ ] | Nightfall Blue | `02131` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Ocean Reef Blue | `02074` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Opaque Red | `02507` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Oyster White | `02492` | ![#EDE8D8](swatches/hex-ede8d8.svg) | `#EDE8D8` |
+| [ ] | Pale Yellow | `02005` | ![#F0E39B](swatches/hex-f0e39b.svg) | `#F0E39B` |
+| [ ] | Paradise | `02587` | ![#2D9A8C](swatches/hex-2d9a8c.svg) | `#2D9A8C` |
+| [ ] | Passion | `02590` | ![#B73D68](swatches/hex-b73d68.svg) | `#B73D68` |
+| [ ] | Phthalo Blue | `02502` | ![#087A9A](swatches/hex-087a9a.svg) | `#087A9A` |
+| [ ] | Pretty Pink | `02088` | ![#D66B92](swatches/hex-d66b92.svg) | `#D66B92` |
+| [ ] | Pumpkin | `02042` | ![#D96827](swatches/hex-d96827.svg) | `#D96827` |
+| [ ] | Purple | `02015` | ![#754A91](swatches/hex-754a91.svg) | `#754A91` |
+| [ ] | Quaker Grey | `02057` | ![#73797A](swatches/hex-73797a.svg) | `#73797A` |
+| [ ] | Rain Grey | `02543` | ![#9CA4A7](swatches/hex-9ca4a7.svg) | `#9CA4A7` |
+| [ ] | Raw Sienna | `02411` | ![#B8743F](swatches/hex-b8743f.svg) | `#B8743F` |
+| [ ] | Rosy Beige | `02019` | ![#CFADA6](swatches/hex-cfada6.svg) | `#CFADA6` |
+| [ ] | Salmon | `02711` | ![#C7675A](swatches/hex-c7675a.svg) | `#C7675A` |
+| [ ] | Sandstone | `02402` | ![#CBB896](swatches/hex-cbb896.svg) | `#CBB896` |
+| [ ] | Sea Foam | `02675` | ![#A9D6C5](swatches/hex-a9d6c5.svg) | `#A9D6C5` |
+| [ ] | Seminole Green | `02009` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | Spice Brown | `02049` | ![#63452F](swatches/hex-63452f.svg) | `#63452F` |
+| [ ] | Sunbright Yellow | `02064` | ![#E8C52F](swatches/hex-e8c52f.svg) | `#E8C52F` |
+| [ ] | Tahiti Blue | `3` | ![#2963A6](swatches/hex-2963a6.svg) | `#2963A6` |
+| [ ] | Tangerine | `02043` | ![#EB7B28](swatches/hex-eb7b28.svg) | `#EB7B28` |
+| [ ] | Tawny Medium | `02126` | ![#9B785B](swatches/hex-9b785b.svg) | `#9B785B` |
+| [ ] | Terra Cotta | `02071` | ![#B75E45](swatches/hex-b75e45.svg) | `#B75E45` |
+| [ ] | Territorial Beige | `02425` | ![#B9A88B](swatches/hex-b9a88b.svg) | `#B9A88B` |
+| [ ] | Tompte Red | `02107` | ![#AD262E](swatches/hex-ad262e.svg) | `#AD262E` |
+| [ ] | Turquoise | `02012` | ![#2B9E9E](swatches/hex-2b9e9e.svg) | `#2B9E9E` |
+| [ ] | Waterfall | `04081` | ![#4FA9AE](swatches/hex-4fa9ae.svg) | `#4FA9AE` |
+| [ ] | Wedgwood Green | `02070` | ![#418736](swatches/hex-418736.svg) | `#418736` |
+| [ ] | White | `02505` | ![#F0EADD](swatches/hex-f0eadd.svg) | `#F0EADD` |
+| [ ] | Yellow | `02504` | ![#E0C326](swatches/hex-e0c326.svg) | `#E0C326` |
 
 Source: [Delta Ceramcoat Acrylic Paint](https://plaidonline.com/delta-ceramcoat-acrylic-paint).
 

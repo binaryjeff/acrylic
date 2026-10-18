@@ -1,17 +1,21 @@
-# High Desert Airfield Palette
+# Desert Sky
 
-![Grey Sky - DA111 - #C9D0D8](swatches/cards/americana-da111-grey-sky.svg)
+A nine-color acrylic palette for a bold, comic/manga-style desert adventure: a red-haired girl, her pet, and a flying contraption. Inspired by the vivid warm/cool contrasts of *Aetherdrift*.
 
-![Light Blue - 402 - #79B6D2](swatches/cards/folkart-402-light-blue.svg)
+| Swatch | Paint | Brand | Number | Role |
+|---|---|---|---|---|
+| ![Bright Red](swatches/cards/ceramcoat-02503-bright-red.svg) | **Bright Red** | Delta Ceramcoat | `02503` | Hero red |
+| ![Fire Coral](swatches/cards/folkart-6452-fire-coral.svg) | **Fire Coral** | FolkArt | `6452` | Warm accents · owned |
+| ![Sunflower](swatches/cards/folkart-432-sunflower.svg) | **Sunflower** | FolkArt | `432` | Golden sunlight |
+| ![Honey Brown](swatches/cards/americana-da163-honey-brown.svg) | **Honey Brown** | DecoArt Americana | `DA163` | Desert earth |
+| ![Dunes Beige](swatches/cards/ceramcoat-02466-dunes-beige.svg) | **Dunes Beige** | Delta Ceramcoat | `02466` | Sunlit highlights |
+| ![Bahama Blue](swatches/cards/americana-da255-bahama-blue.svg) | **Bahama Blue** | DecoArt Americana | `DA255` | Open sky · owned |
+| ![Violet Pansy](swatches/cards/folkart-440-violet-pansy.svg) | **Violet Pansy** | FolkArt | `440` | Cool shadows |
+| ![Midnight](swatches/cards/folkart-964-midnight.svg) | **Midnight** | FolkArt | `964` | Dark colored ink |
+| ![Burnt Umber](swatches/cards/folkart-462-burnt-umber.svg) | **Burnt Umber** | FolkArt | `462` | Warm darks |
 
-![Light Buttermilk - DA164 - #F5E9C7](swatches/cards/palette-only/americana-da164-light-buttermilk.svg)
+**Brand balance:** 5 FolkArt · 2 Delta Ceramcoat · 2 DecoArt Americana.
 
-![Bleached Sand - DA257 - #E4D2B4](swatches/cards/palette-only/americana-da257-bleached-sand.svg)
+**Painting notes:** Let Bahama Blue establish the open sky; use Bright Red for the focal sail or costume, Fire Coral for warm accents, Sunflower and Honey Brown for sunlit desert forms, and Dunes Beige for peach-sand highlights. Violet Pansy provides cool shadow shapes; Midnight is the near-black colored ink, while Burnt Umber handles warm recesses and weathered machinery.
 
-![Canyon Sunset - 36255 - #D98555](swatches/cards/folkart-36255-canyon-sunset.svg)
-
-![Burnt Sienna - DAO63 - #7B463A](swatches/cards/americana-dao63-burnt-sienna.svg)
-
-![Dragon Teal - DA433 - #167A81](swatches/cards/palette-only/americana-da433-dragon-teal.svg)
-
-![Burnt Umber - DAO64 - #544035](swatches/cards/americana-dao64-burnt-umber.svg)
+Digital swatches are approximate. [Browse the paint-color inventory](paint-color-inventory.md).

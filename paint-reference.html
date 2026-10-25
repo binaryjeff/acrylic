@@ -3,67 +3,27 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Acrylic Paint and Palette Reference</title>
+<title>Acrylic Paint Inventory</title>
 <style>
   :root { color-scheme: light; font-family: Arial, Helvetica, sans-serif; }
   body { margin: 24px; color: #222; background: #fff; }
   h1 { margin: 0 0 8px; font-size: 1.6rem; }
   h2 { margin: 28px 0 8px; font-size: 1.3rem; }
   h3 { margin: 22px 0 10px; font-size: 1.05rem; }
-  .intro, .description, .notes, .source-note { max-width: 1000px; line-height: 1.45; }
+  .intro, .source-note { max-width: 1000px; line-height: 1.45; }
   .section { margin-top: 30px; }
-  .palette { margin: 24px 0 32px; }
   .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 240px)); gap: 8px; }
-  .palette-cards { grid-template-columns: repeat(auto-fit, minmax(240px, 240px)); }
   .card { position: relative; box-sizing: border-box; width: 240px; height: 64px; padding: 9px 12px; display: flex; flex-direction: column; justify-content: center; border-radius: 4px; overflow: hidden; }
   .name { font-size: 15px; line-height: 20px; font-weight: 700; }
   .details { margin-top: 2px; font-size: 12px; line-height: 16px; }
   .owned { position: absolute; top: 5px; right: 8px; font-size: 16px; font-weight: 700; }
-  .notes { margin-top: 12px; font-size: .92rem; }
   .family { margin-top: 14px; }
-  @media (max-width: 520px) { body { margin: 16px; } .cards, .palette-cards { grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); } .card { width: 100%; } }
+  @media (max-width: 520px) { body { margin: 16px; } .cards { grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); } .card { width: 100%; } }
 </style>
 </head>
 <body>
-<h1>Acrylic Paint and Palette Reference</h1>
+<h1>Acrylic Paint Inventory</h1>
 <p class="intro">Standard matte acrylic colors from DecoArt Americana, FolkArt, and Delta Ceramcoat. Each card carries its paint metadata in the HTML. A checkmark means the paint is owned.</p>
-<section class="section" id="palettes">
-<h2>Palettes</h2>
-<section class="palette" data-palette="Desert Sky">
-<h3>Desert Sky</h3>
-<p class="description">A nine-color acrylic palette for a bold, comic/manga-style desert adventure: a red-haired girl, her pet, and a flying contraption. Inspired by the vivid warm/cool contrasts of Aetherdrift.</p>
-<div class="cards palette-cards">
-<article class="card" data-name="Bright Red" data-code="02503" data-hex="#E70027" data-owned="false" data-brand="Delta Ceramcoat Acrylic Paint" data-kind="paint" style="background-color:#E70027;color:#FFFFFF"><span class="name">Bright Red</span><span class="details">02503 &middot; #E70027</span></article>
-<article class="card" data-name="Fire Coral" data-code="6452" data-hex="#E76758" data-owned="true" data-brand="FolkArt Acrylic Colors" data-kind="paint" style="background-color:#E76758;color:#000000"><span class="name">Fire Coral</span><span class="details">6452 &middot; #E76758</span><span class="owned" aria-label="Owned">✓</span></article>
-<article class="card" data-name="Sunflower" data-code="432" data-hex="#E8C547" data-owned="false" data-brand="FolkArt Acrylic Colors" data-kind="paint" style="background-color:#E8C547;color:#000000"><span class="name">Sunflower</span><span class="details">432 &middot; #E8C547</span></article>
-<article class="card" data-name="Honey Brown" data-code="DA163" data-hex="#BA8750" data-owned="false" data-brand="DecoArt Americana Acrylics" data-kind="paint" style="background-color:#BA8750;color:#000000"><span class="name">Honey Brown</span><span class="details">DA163 &middot; #BA8750</span></article>
-<article class="card" data-name="Dunes Beige" data-code="02466" data-hex="#F5D4A9" data-owned="false" data-brand="Delta Ceramcoat Acrylic Paint" data-kind="paint" style="background-color:#F5D4A9;color:#000000"><span class="name">Dunes Beige</span><span class="details">02466 &middot; #F5D4A9</span></article>
-<article class="card" data-name="Bahama Blue" data-code="DA255" data-hex="#73CCD2" data-owned="true" data-brand="DecoArt Americana Acrylics" data-kind="paint" style="background-color:#73CCD2;color:#000000"><span class="name">Bahama Blue</span><span class="details">DA255 &middot; #73CCD2</span><span class="owned" aria-label="Owned">✓</span></article>
-<article class="card" data-name="Violet Pansy" data-code="440" data-hex="#65458F" data-owned="false" data-brand="FolkArt Acrylic Colors" data-kind="paint" style="background-color:#65458F;color:#FFFFFF"><span class="name">Violet Pansy</span><span class="details">440 &middot; #65458F</span></article>
-<article class="card" data-name="Midnight" data-code="964" data-hex="#0C182F" data-owned="false" data-brand="FolkArt Acrylic Colors" data-kind="paint" style="background-color:#0C182F;color:#FFFFFF"><span class="name">Midnight</span><span class="details">964 &middot; #0C182F</span></article>
-<article class="card" data-name="Burnt Umber" data-code="462" data-hex="#5A3827" data-owned="false" data-brand="FolkArt Acrylic Colors" data-kind="paint" style="background-color:#5A3827;color:#FFFFFF"><span class="name">Burnt Umber</span><span class="details">462 &middot; #5A3827</span></article>
-</div>
-<p class="notes">Brand balance:  5 FolkArt · 2 Delta Ceramcoat · 2 DecoArt Americana.</p>
-<p class="notes">Painting notes:  Let Bahama Blue establish the open sky; use Bright Red for the focal sail or costume, Fire Coral for warm accents, Sunflower and Honey Brown for sunlit desert forms, and Dunes Beige for peach-sand highlights. Violet Pansy provides cool shadow shapes; Midnight is the near-black colored ink, while Burnt Umber handles warm recesses and weathered machinery.</p>
-</section>
-<section class="palette" data-palette="Forest Whispers">
-<h3>Forest Whispers</h3>
-<p class="description">A nine-color acrylic concept palette for an enchanted forest illustration: a young magician helping small woodland creatures. Cool mossy greens and misty turquoise establish the woodland, while autumn gold, rust, violet, and firefly light draw attention to the characters and magic.</p>
-<div class="cards palette-cards">
-<article class="card" data-name="Deep Forest Ink" data-code="Concept" data-hex="#243B31" data-owned="false" data-brand="Concept" data-kind="concept" style="background-color:#243B31;color:#FFFFFF"><span class="name">Deep Forest Ink</span><span class="details">Concept &middot; #243B31</span></article>
-<article class="card" data-name="Mossy Fern" data-code="Concept" data-hex="#586D46" data-owned="false" data-brand="Concept" data-kind="concept" style="background-color:#586D46;color:#FFFFFF"><span class="name">Mossy Fern</span><span class="details">Concept &middot; #586D46</span></article>
-<article class="card" data-name="Sunlit Sage" data-code="Concept" data-hex="#A7B878" data-owned="false" data-brand="Concept" data-kind="concept" style="background-color:#A7B878;color:#000000"><span class="name">Sunlit Sage</span><span class="details">Concept &middot; #A7B878</span></article>
-<article class="card" data-name="Mystic Mist" data-code="Concept" data-hex="#A1D5C4" data-owned="false" data-brand="Concept" data-kind="concept" style="background-color:#A1D5C4;color:#000000"><span class="name">Mystic Mist</span><span class="details">Concept &middot; #A1D5C4</span></article>
-<article class="card" data-name="Enchanted Teal" data-code="Concept" data-hex="#4D8985" data-owned="false" data-brand="Concept" data-kind="concept" style="background-color:#4D8985;color:#000000"><span class="name">Enchanted Teal</span><span class="details">Concept &middot; #4D8985</span></article>
-<article class="card" data-name="Golden Canopy" data-code="Concept" data-hex="#D8AC4B" data-owned="false" data-brand="Concept" data-kind="concept" style="background-color:#D8AC4B;color:#000000"><span class="name">Golden Canopy</span><span class="details">Concept &middot; #D8AC4B</span></article>
-<article class="card" data-name="Autumn Ember" data-code="Concept" data-hex="#B66C50" data-owned="false" data-brand="Concept" data-kind="concept" style="background-color:#B66C50;color:#000000"><span class="name">Autumn Ember</span><span class="details">Concept &middot; #B66C50</span></article>
-<article class="card" data-name="Spellbound Violet" data-code="Concept" data-hex="#81749E" data-owned="false" data-brand="Concept" data-kind="concept" style="background-color:#81749E;color:#000000"><span class="name">Spellbound Violet</span><span class="details">Concept &middot; #81749E</span></article>
-<article class="card" data-name="Firefly Glow" data-code="Concept" data-hex="#F3DB9C" data-owned="false" data-brand="Concept" data-kind="concept" style="background-color:#F3DB9C;color:#000000"><span class="name">Firefly Glow</span><span class="details">Concept &middot; #F3DB9C</span></article>
-</div>
-<p class="notes">Painting notes:  Use Deep Forest Ink for colored outlines and deep shadows; Mossy Fern and Sunlit Sage for foliage; Mystic Mist and Enchanted Teal for atmosphere and water; Golden Canopy and Autumn Ember for leaves and the magician&#x27;s warm accents; Spellbound Violet for creatures and spell effects; and Firefly Glow for the brightest magical highlights.</p>
-<p class="notes">Paint matching:  These are proposed HEX reference colors, not yet verified matches to DecoArt Americana, FolkArt, or Delta Ceramcoat paint numbers. Digital swatches are approximate.</p>
-</section>
-</section>
 <section class="section" id="inventory">
 <h2>Paint Inventory</h2>
 <p class="source-note">Americana and Ceramcoat colors are sampled from the supplied product-chart images; FolkArt hex values are approximate screen references. Digital swatches are not paint measurements.</p>
